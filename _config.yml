@@ -1,0 +1,22 @@
+title: Dr. Kara D. Lamb
+author: K. Lamb
+email: karadlamb@gmail.com
+description: >-
+  Physicist studying aerosol and cloud microphysics.
+
+social:
+  twitter: karadlamb
+  github: kdlamb
+  linkedin: kara-diane-lamb-6130bb2a
+  scholar: G9SNJUMAAAAJ
+  researchgate: Kara_Lamb
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
