@@ -1,3 +1,3 @@
 ---
-layout: multiverse
+layout: home
 ---
