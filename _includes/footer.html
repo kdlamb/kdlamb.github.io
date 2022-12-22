@@ -1,16 +1,6 @@
-<footer id="footer" class="panel">
-  <div class="inner split">
-    <div>
-      <section>
-        <h2>{{ site.title }}</h2>
-        <p>{{ site.description }}</p>
-      </section>
-      {%- include social.html -%}
-      <p class="copyright">
-        &copy; <a href="mailto:{{ site.email }}">{{ site.author }}</a>. Design: <a href="http://html5up.net">HTML5 UP</a>.
-      </p>
-    </div>
-    <div>
-    </div>
-  </div>
+<footer class="footer">
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endfor %}
+  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
 </footer>

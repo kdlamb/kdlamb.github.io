@@ -1,22 +1,20 @@
-title: Dr. Kara D. Lamb
-author: K. Lamb
-email: karadlamb@gmail.com
-description: >-
-  Physicist studying aerosol and cloud microphysics.
+# Site Build Settings
 
-social:
-  twitter: karadlamb
-  github: kdlamb
-  linkedin: kara-diane-lamb-6130bb2a
-  scholar: G9SNJUMAAAAJ
-  researchgate: Kara_Lamb
+# jekyll-paginate configuration
+paginate:            5
 
 # Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-collections:
-  images:
-    output: true
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Dr. Kara D. Lamb"
+description:	       "Webpage"
+author:              "Kara D. Lamb"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+repository: kdlamb/kdlamb.github.io

@@ -1,0 +1,39 @@
+.page-content {
+  max-width: 900px;
+  display: block;
+  margin: 10px auto 10px;
+}
+.featured-image img {
+  margin: 0px 0px 0px;
+  align: middle;
+  display: block;
+  height: 200px;
+  width: $container-width;
+}
+@media (max-width: $container-width) {
+  .post-content {
+    width: 60vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: 60vw;
+  }
+}
+@media (max-width: $tablet-width) {
+  .post-content {
+    width: 95vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: 95vw;
+  }
+}
+
