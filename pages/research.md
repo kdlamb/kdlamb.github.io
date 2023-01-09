@@ -130,7 +130,7 @@ As forest fires in the Western United States become more common, it is increasin
 <small> [1] <a href="https://acp.copernicus.org/articles/21/7235/2021/">Womack et al. Atmospheric Chemistry and Physics (2021)</a> </small><br>
 <small> [2] <a href="https://www.tandfonline.com/doi/full/10.1080/02786826.2019.1617832">Adler et al. Aerosol Science and Technology (2019)</a> </small><br>
 <small> [3] <a href="https://www.sciencedirect.com/science/article/pii/S1352231019301724">Li et al. Atmospheric Environment (2019)</a> </small><br>
-<small> [3] <a href="https://acp.copernicus.org/articles/18/1879/2018/">Manfred et al. Atmospheric Chemistry and Physics (2018)</a> </small><br>
+<small> [4] <a href="https://acp.copernicus.org/articles/18/1879/2018/">Manfred et al. Atmospheric Chemistry and Physics (2018)</a> </small><br>
 
 &ensp;
 
