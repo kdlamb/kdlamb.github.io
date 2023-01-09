@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /about
+permalink: /contact
 image: SunsetBand.jpeg
 ---
 
