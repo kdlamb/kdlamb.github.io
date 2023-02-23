@@ -14,6 +14,13 @@ image: waves-band.jpeg
     <td><b style="width:20px"></b></td>
     <td><b style="width:400px"></b></td>
  </tr>
+ 
+<tr>
+    <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
+    <td><strong>Pyrocumulonimbus significantly impact the stratospheric aerosol budget </strong><a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a><BR>
+    J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
+    <em>Science</em>, 379, 6634 (2023)</td>
+ </tr>
  <tr>
     <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
     <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://doi.org/10.5194/acp-2022-733">[preprint]</a></strong><BR>
@@ -31,12 +38,6 @@ Under review (2022)</td>
     <td></td>
     <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://arxiv.org/abs/2107.10197">[preprint]</a></strong><BR>
     K.D. Lamb, P. Gentine.<BR>
-    Under review (2022)</td>
- </tr>
-    <tr>
-    <td></td>
-    <td><strong>Pyrocumulonimbus significantly impact the stratospheric aerosol budget </strong><BR>
-    J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     Under review (2022)</td>
  </tr>
  
