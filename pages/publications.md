@@ -222,6 +222,7 @@ Machine Learning and the Physical Sciences Workshop <br>
 
 # Media and Press
 <hr style="width:70%">
+Towering Wildfire Clouds Are Affecting the Stratosphere, and the Climate, State of the Planet, February (2023) <a href="https://news.climate.columbia.edu/2023/02/28/towering-wildfire-clouds-are-affecting-the-stratosphere-and-the-climate/">[link]</a> <br>
 Can Climate Models Aid Adaptation Efforts with Help from A.I.?, Sustain What? Webcast, December (2022) <a href="https://www.earth.columbia.edu/videos/view/can-climate-models-aid-adaptation-efforts-with-help-from-a-i-question">[link]</a> <br>
 How Studying the Clouds Can Improve Climate Models, State of the Planet, November (2022) <a href="https://news.climate.columbia.edu/2022/11/23/how-studying-the-clouds-can-improve-climate-models/">[link]</a> <br>
 DOE Awards $14 Million to Improve Climate Change Predictions (2022) <a href="https://www.arm.gov/news/facility/post/80145">[link]</a> <br>
