@@ -25,7 +25,7 @@ image: waves-band.jpeg
     <td></td>    
     <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic</strong><BR>
     A. Perring, B. Mediavilla, G. Wilbanks, J. Churnside, R. Marchbanks, K.D. Lamb, R. Gao.<BR>
-    Under review (2023)</td>
+    Submitted (2023)</td>
  </tr>
  <tr>
     <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
