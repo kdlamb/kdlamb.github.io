@@ -20,7 +20,9 @@ image: waves-band.jpeg
     <td><strong>Pyrocumulonimbus significantly impact the stratospheric aerosol budget <a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
     J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     <em>Science</em>, 379, 6634 (2023)</td>
-    
+ </tr>
+    <tr>
+    <td></td>    
     <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic</strong><BR>
     A. Perring, B. Mediavilla, G. Wilbanks, J. Churnside, R. Marchbanks, K.D. Lamb, R. Gao.<BR>
     Under review (2023)</td>
