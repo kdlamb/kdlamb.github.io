@@ -40,6 +40,7 @@ Accepted (2023)</td>
     A. Perring, B. Mediavilla, G. Wilbanks, J. Churnside, R. Marchbanks, K.D. Lamb, R. Gao.<BR>
     Submitted (2023)</td>
  </tr>
+ 
  <tr>
 <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://arxiv.org/abs/2107.10197">[preprint]</a></strong><BR>
@@ -53,6 +54,7 @@ E. Diaz Salas‐Porras, K. Tazi, A. Braude, D. Okoh, K.D. Lamb, D. Watson‐Parr
 Workshop on Causality for Real‐world Impact (CML4Impact 2022) <br>
 2022 Conference on Neural Information Processing Systems <br></td>
 </tr>
+
 <tr> 
 <td></td>
 <td><strong>Pyrocast: a Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) clouds <a href="https://arxiv.org/abs/2211.13052">[link]</a></strong><br>
@@ -220,7 +222,9 @@ Towering Wildfire Clouds Are Affecting the Stratosphere, and the Climate, State 
 Can Climate Models Aid Adaptation Efforts with Help from A.I.?, Sustain What? Webcast, December (2022) <a href="https://www.earth.columbia.edu/videos/view/can-climate-models-aid-adaptation-efforts-with-help-from-a-i-question">[link]</a> <br>
 How Studying the Clouds Can Improve Climate Models, State of the Planet, November (2022) <a href="https://news.climate.columbia.edu/2022/11/23/how-studying-the-clouds-can-improve-climate-models/">[link]</a> <br>
 DOE Awards $14 Million to Improve Climate Change Predictions (2022) <a href="https://www.arm.gov/news/facility/post/80145">[link]</a> <br>
+Human‐made iron inputs to the Southern Ocean ten times higher than previously estimated.  EurekaAlert! AAAS, May (2022) <a href="https://www.eurekalert.org/news-releases/953583">[link]</a> <br>
 Aerosols and their Role in Climate (2021) <a href="https://storymaps.arcgis.com/stories/482fcb53fda94104b60bac785ac739f4">[link]</a><br>
+New spectrometer measures water vapor isotopic evolution in cirrus clouds. AIP SciLight (2020) <a href="https://pubs.aip.org/aip/sci/article/2020/18/181104/364430/New-spectrometer-measures-water-vapor-isotopic">[link]</a><br>
 NASA flies low over South Korea to measure polluted air, CNN, June (2016) <a href="https://www.cnn.com/2016/06/02/asia/nasa-south-korea-dc-8-pollution">[link]</a><br>
 On board NASA's flying lab over South Korea, CNN, June (2016) <a href="https://www.cnn.com/2016/06/02/asia/nasa-air-pollution-south-korea-photos/index.html">[link]</a><br>
 
