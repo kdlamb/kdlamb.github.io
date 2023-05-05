@@ -5,7 +5,7 @@ permalink: /publications
 image: waves-band.jpeg
 ---
 
-# Articles and Preprints
+# Articles, Preprints, and Conference Papers
 <hr style="width:70%">
 
 
@@ -21,6 +21,19 @@ image: waves-band.jpeg
     J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     <em>Science</em>, 379, 6634 (2023)</td>
  </tr>
+     <tr>
+<td></td>
+    <td><strong>Implicit Learning of Convective Organization Explains Precipitation Stochasticity <a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512517.1">[preprint]</a></strong><BR>
+S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
+Accepted (2023)</td>
+ </tr>
+     <tr>
+ <td></td>
+     <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://doi.org/10.5194/acp-2022-733">[preprint]</a></strong><BR>
+K.D. Lamb,  J. Harrington, B.W. Clouser, E.J. Moyer, L. Sarkozy, V. Ebert, O. Möhler, H. Saathoff.<BR> 
+<em>Atmospheric Chemistry and Physics Discussion</em><BR>
+Accepted (2023)</td>
+ </tr>
     <tr>
     <td></td>    
     <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic</strong><BR>
@@ -28,24 +41,25 @@ image: waves-band.jpeg
     Submitted (2023)</td>
  </tr>
  <tr>
-    <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
-    <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://doi.org/10.5194/acp-2022-733">[preprint]</a></strong><BR>
-K.D. Lamb,  J. Harrington, B.W. Clouser, E.J. Moyer, L. Sarkozy, V. Ebert, O. Möhler, H. Saathoff.<BR> 
-<em>Atmospheric Chemistry and Physics Discussion</em><BR>
+<td><strong>2022<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://arxiv.org/abs/2107.10197">[preprint]</a></strong><BR>
+K.D. Lamb, P. Gentine.<BR>
 Under review (2022)</td>
- </tr>
-    <tr>
-    <td></td>
-    <td><strong>Implicit Learning of Convective Organization Explains Precipitation Stochasticity <a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512517.1">[preprint]</a></strong><BR>
-S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
-Under review (2022)</td>
- </tr>
-  <tr>
-    <td></td>
-    <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://arxiv.org/abs/2107.10197">[preprint]</a></strong><BR>
-    K.D. Lamb, P. Gentine.<BR>
-    Under review (2022)</td>
- </tr>
+</tr>
+<tr>
+<td></td>  
+ <td><strong>Identifying the Causes of Pyrocumulonimbus (PyroCb) <a href="https://arxiv.org/abs/2211.08883">[link]</a></strong><br>
+E. Diaz Salas‐Porras, K. Tazi, A. Braude, D. Okoh, K.D. Lamb, D. Watson‐Parris, P. Harder, N. Meinert <br>
+Workshop on Causality for Real‐world Impact (CML4Impact 2022) <br>
+2022 Conference on Neural Information Processing Systems <br></td>
+</tr>
+<tr> 
+<td></td>
+<td><strong>Pyrocast: a Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) clouds <a href="https://arxiv.org/abs/2211.13052">[link]</a></strong><br>
+K. Tazi, E. Diaz Salas‐Porras, A.  Braude, D. Okoh, K.D. Lamb, D. Watson‐Parris, P. Harder, N. Meinert<br>
+Tackling Climate Change with Machine Learning Workshop <br>
+2022 Conference on Neural Information Processing Systems<br></td>
+</tr>
  
 <tr>
 <td></td>
@@ -110,6 +124,30 @@ B. Clouser, K.D. Lamb, L. Sarkozy, A. Nisenoff, J. Habig, V. Ebert, H. Saathoff,
  
 <tr> 
 <td><strong>2019<br><br><br><br></strong></td>
+<td><strong>A deep learning approach for classifying black carbon aerosol morphology</strong><br>
+K.D. Lamb <br>
+Tackling Climate Change with Machine Learning Workshop <br>
+2019 Conference on Neural Information Processing Systems <br></td>
+</tr>
+
+<tr> 
+<td></td>
+<td><strong>Prediction of GNSS Phase Scintillations: A Machine Learning Approach <a href="https://arxiv.org/abs/1910.01570">[link]</a></strong><br>
+K.D. Lamb*, G. Malhotra*, A. Vlontzos*, E. Wagstaff*, A.G. Baydin, A. Bhiwandiwalla, Y. Gal, A. Kalaitzis, A.Reina, A. Bhatt (*equal contributions) <br>
+Machine Learning and the Physical Sciences Workshop <br>
+2019 Conference on Neural Information Processing Systems <br></td>
+</tr>
+
+<tr> 
+<td></td>
+<td><strong>Correlation of Auroral Dynamics and GNSS Scintillation with an Auto‐encoder <a href="https://arxiv.org/abs/1910.01570">[link]</a></strong><br>
+K.D. Lamb*, G. Malhotra*, A. Vlontzos*, E. Wagstaff*, A.G. Baydin, A. Bhiwandiwalla, Y. Gal, A. Kalaitzis, A.Reina, A. Bhatt (*equal contributions) <br>
+Machine Learning and the Physical Sciences Workshop <br>
+2019 Conference on Neural Information Processing Systems <br></td>
+</tr>
+
+<tr>
+<td></td> 
 <td><strong>Classification of iron oxide aerosols with a single particle soot photometer using supervised machine learning <a href="https://amt.copernicus.org/articles/12/3885/2019/">[link]</a></strong><br>
 K.D. Lamb <br>
 <em>Atmospheric Measurement Techniques</em>, 12, 3885‐3906 (2019)</td>
@@ -170,56 +208,6 @@ K.D. Lamb, C.C. Gerry, Q. Su, R. Grobe <br>
 K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 <em>Physical Review E</em>, 74(6):061903 (2006)</td>
  </tr>
- 
-</table>
-
-&ensp;
-&ensp;
-
-<h1 style="text-align: right;">Conference Papers</h1>
-<hr class="right" style="width:70%">
-
-<table border="0">
-
-<tr> 
-<td><strong>2022<br><br><br><br></strong></td>
-<td><strong>Identifying the Causes of Pyrocumulonimbus (PyroCb) <a href="https://arxiv.org/abs/2211.08883">[link]</a></strong><br>
-E. Diaz Salas‐Porras, K. Tazi, A. Braude, D. Okoh, K.D. Lamb, D. Watson‐Parris, P. Harder, N. Meinert <br>
-Workshop on Causality for Real‐world Impact (CML4Impact 2022) <br>
-2022 Conference on Neural Information Processing Systems <br></td>
-</tr>
- 
-<tr> 
-<td></td>
-<td><strong>Pyrocast: a Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) clouds <a href="https://arxiv.org/abs/2211.13052">[link]</a></strong><br>
-K. Tazi, E. Diaz Salas‐Porras, A.  Braude, D. Okoh, K.D. Lamb, D. Watson‐Parris, P. Harder, N. Meinert<br>
-Tackling Climate Change with Machine Learning Workshop <br>
-2022 Conference on Neural Information Processing Systems<br></td>
-</tr>
- 
-<tr> 
-<td><strong>2019<br><br><br><br></strong></td>
-<td><strong>A deep learning approach for classifying black carbon aerosol morphology</strong><br>
-K.D. Lamb <br>
-Tackling Climate Change with Machine Learning Workshop <br>
-2019 Conference on Neural Information Processing Systems <br></td>
-</tr>
-
-<tr> 
-<td></td>
-<td><strong>Prediction of GNSS Phase Scintillations: A Machine Learning Approach <a href="https://arxiv.org/abs/1910.01570">[link]</a></strong><br>
-K.D. Lamb*, G. Malhotra*, A. Vlontzos*, E. Wagstaff*, A.G. Baydin, A. Bhiwandiwalla, Y. Gal, A. Kalaitzis, A.Reina, A. Bhatt (*equal contributions) <br>
-Machine Learning and the Physical Sciences Workshop <br>
-2019 Conference on Neural Information Processing Systems <br></td>
-</tr>
-
-<tr> 
-<td></td>
-<td><strong>Correlation of Auroral Dynamics and GNSS Scintillation with an Auto‐encoder <a href="https://arxiv.org/abs/1910.01570">[link]</a></strong><br>
-K.D. Lamb*, G. Malhotra*, A. Vlontzos*, E. Wagstaff*, A.G. Baydin, A. Bhiwandiwalla, Y. Gal, A. Kalaitzis, A.Reina, A. Bhatt (*equal contributions) <br>
-Machine Learning and the Physical Sciences Workshop <br>
-2019 Conference on Neural Information Processing Systems <br></td>
-</tr>
  
 </table>
 
