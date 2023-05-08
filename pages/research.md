@@ -31,7 +31,7 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 The amount of sunlight clouds reflect back to space or absorb in the atmosphere plays an important role in the Earth’s energy budget, impacting the total climate system. Clouds form complex patterns that evolve over time, and are challenging to parameterize in models. The spatial-temporal organization of clouds and convection plays an important role in their lifetime and the amount and timing of precipitation. Machine learning can be used to develop novel metrics for representing sub-grid-scale cloud macrophysical properties in large-scale models.
 <br>
 <p style="text-align: right" align="justify">
-<small> [1] <a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512517.1">Shamekh, Lamb, Huang, Gentine. Under review (2022)</a> </small><br>
+<small> [1] <a href="https://www.pnas.org/doi/10.1073/pnas.2216158120">Shamekh, Lamb, Huang, Gentine. Proceedings of the National Academies of Sciences (2023)</a> </small><br>
 </p> <br>
 
 &ensp;
@@ -47,7 +47,7 @@ Stratospheric water vapor acts as a green house gas, with important implications
 
 Depositional ice growth is an important microphysical process impacting cloud formation in mixed phase and ice clouds. The habits and growth rates of ice crystals are known to sensitively depend on temperature, pressure, and super-saturation, although the surface effects controlling vapor deposition are complex, and challenging to characterize experimentally. This lack of clear physical understanding makes it challenging to predict ice crystal habits and to parameterize depositional growth rates in weather and climate models.
 <br>
-<small> [1] <a href="https://doi.org/10.5194/acp-2022-733">Lamb et al. Under review, ACPD (2022)</a> </small><br>
+<small> [1] <a href="https://doi.org/10.5194/acp-2022-733">Lamb et al. Accepted, Atmospheric Chemistry and Physics (2023)</a> </small><br>
 <small> [2] <a href="https://acp.copernicus.org/articles/20/1089/2020/">Clouser et al. Atmospheric Chemistry and Physics (2020)</a> </small><br>
 </p> <br>
 
@@ -60,7 +60,7 @@ Depositional ice growth is an important microphysical process impacting cloud fo
 The isotopic composition of water is an important tracer of geophysical and atmospheric processes, as the preferential deposition of heavy water as ice can provide information about both the sources of water and its past history. My doctoral thesis focused on experimental characterization of isotopic water vapor at low temperatures as a tracer of cirrus cloud microphysics. This research provided the first experimental verification of the isotopic fractionation factors of water vapor at low temperatures, in both equilibrium and non-equilibrium conditions characteristic of the upper atmosphere.
 <br>
 <p style="text-align: right" align="justify">
-<small> [1] <a href="https://www.pnas.org/content/early/2017/05/10/1618374114">Lamb et al. Proceedings of the National Academies of Science (2017)</a> </small><br>
+<small> [1] <a href="https://www.pnas.org/content/early/2017/05/10/1618374114">Lamb et al. Proceedings of the National Academies of Sciences (2017)</a> </small><br>
 
 &ensp;
 
