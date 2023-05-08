@@ -23,9 +23,9 @@ image: waves-band.jpeg
  </tr>
      <tr>
 <td></td>
-    <td><strong>Implicit Learning of Convective Organization Explains Precipitation Stochasticity <a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512517.1">[preprint]</a></strong><BR>
+    <td><strong>Implicit Learning of Convective Organization Explains Precipitation Stochasticity <a href="https://www.pnas.org/doi/10.1073/pnas.2216158120">[link]</a></strong><BR>
 S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
-Accepted (2023)</td>
+<em>Proceedings of the National Academy of Sciences</em>, 120(20)e2216158120 (2023)</td>
  </tr>
      <tr>
  <td></td>
