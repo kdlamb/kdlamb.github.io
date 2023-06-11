@@ -31,8 +31,7 @@ S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
  <td></td>
      <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://acp.copernicus.org/articles/23/6043/2023/">[link]</a></strong><BR>
 K.D. Lamb,  J. Harrington, B.W. Clouser, E.J. Moyer, L. Sarkozy, V. Ebert, O. Möhler, H. Saathoff.<BR> 
-<em>Atmospheric Chemistry and Physics</em>, 23, 6043-6064<BR>
-Accepted (2023)</td>
+<em>Atmospheric Chemistry and Physics</em>, 23, 6043-6064 (2023)<BR></td>
  </tr>
     <tr>
     <td></td>    
