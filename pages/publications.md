@@ -17,7 +17,7 @@ image: waves-band.jpeg
  
 <tr>
     <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
-    <td><strong>Pyrocumulonimbus significantly impact the stratospheric aerosol budget <a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
+    <td><strong>Pyrocumulonimbus affect average stratospheric aerosol composition<a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
     J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     <em>Science</em>, 379, 6634 (2023)</td>
  </tr>
@@ -29,16 +29,16 @@ S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
  </tr>
      <tr>
  <td></td>
-     <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://doi.org/10.5194/acp-2022-733">[preprint]</a></strong><BR>
+     <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://acp.copernicus.org/articles/23/6043/2023/">[link]</a></strong><BR>
 K.D. Lamb,  J. Harrington, B.W. Clouser, E.J. Moyer, L. Sarkozy, V. Ebert, O. Möhler, H. Saathoff.<BR> 
-<em>Atmospheric Chemistry and Physics Discussion</em><BR>
+<em>Atmospheric Chemistry and Physics</em>, 23, 6043-6064<BR>
 Accepted (2023)</td>
  </tr>
     <tr>
     <td></td>    
     <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic</strong><BR>
     A. Perring, B. Mediavilla, G. Wilbanks, J. Churnside, R. Marchbanks, K.D. Lamb, R. Gao.<BR>
-    Submitted (2023)</td>
+    Under Review (2023)</td>
  </tr>
  
  <tr>
