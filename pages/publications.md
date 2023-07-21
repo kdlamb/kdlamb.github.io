@@ -27,6 +27,12 @@ image: waves-band.jpeg
 S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
 <em>Proceedings of the National Academy of Sciences</em>, 120(20)e2216158120 (2023)</td>
  </tr>
+      <tr>
+ <td></td>
+     <td><strong>Reduced Order Modeling for Linearized Representations of Microphysical Process Rates<a href="https://www.authorea.com/users/553026/articles/653967-reduced-order-modeling-for-linearized-representations-of-microphysical-process-rates">[preprint]</a></strong><BR>
+K.D. Lamb, M. van Lier Walqui, S.P. Santos, H. Morrison.<BR> 
+Under Review (2023)<BR></td>
+ </tr>
      <tr>
  <td></td>
      <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://acp.copernicus.org/articles/23/6043/2023/">[link]</a></strong><BR>
