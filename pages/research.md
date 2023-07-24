@@ -21,7 +21,8 @@ Clouds and aerosols remain some of the greatest sources of uncertainty for futur
 Improving representations of aerosol and cloud microphysics in atmospheric models is key to accurately predicting future changes in climate. However current microphysical schemes are limited by both structural and parametric uncertainty in their representation of microphysical processes. Machine learning can be used to emulate more expensive computational models or to develop parameterizations of processes directly from observations and higher resolution models using reduced-order model approaches.
 <br>
 <p style="text-align: left" align="justify">
-<small> [1] <a href="https://arxiv.org/abs/2107.10197">Lamb and Gentine. Under review (2022) </a> </small></p> <br>
+<small> [1] <a href="https://arxiv.org/abs/2107.10197">Lamb and Gentine. Under review (2023) </a> </small><br>
+<small> [2] <a href="https://www.authorea.com/users/553026/articles/653967-reduced-order-modeling-for-linearized-representations-of-microphysical-process-rates">Lamb, van Lier Walqui, Santos, Morrison. Under review (2023) </a> </small></p> <br>
 
 &ensp;
 
@@ -47,7 +48,7 @@ Stratospheric water vapor acts as a green house gas, with important implications
 
 Depositional ice growth is an important microphysical process impacting cloud formation in mixed phase and ice clouds. The habits and growth rates of ice crystals are known to sensitively depend on temperature, pressure, and super-saturation, although the surface effects controlling vapor deposition are complex, and challenging to characterize experimentally. This lack of clear physical understanding makes it challenging to predict ice crystal habits and to parameterize depositional growth rates in weather and climate models.
 <br>
-<small> [1] <a href="https://doi.org/10.5194/acp-2022-733">Lamb et al. Accepted, Atmospheric Chemistry and Physics (2023)</a> </small><br>
+<small> [1] <a href="https://acp.copernicus.org/articles/23/6043/2023/">Lamb et al. Atmospheric Chemistry and Physics (2023)</a> </small><br>
 <small> [2] <a href="https://acp.copernicus.org/articles/20/1089/2020/">Clouser et al. Atmospheric Chemistry and Physics (2020)</a> </small><br>
 </p> <br>
 
