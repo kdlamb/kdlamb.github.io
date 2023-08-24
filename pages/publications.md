@@ -41,9 +41,9 @@ Under Review (2023)<BR></td>
  </tr>
     <tr>
     <td></td>    
-    <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic</strong><BR>
+    <td><strong>Airborne Bioaerosol Observations Imply a Strong Terrestrial Source in the Summertime Arctic <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039165">[link]</a></strong><BR>
     A. Perring, B. Mediavilla, G. Wilbanks, J. Churnside, R. Marchbanks, K.D. Lamb, R. Gao.<BR>
-    Under Review (2023)</td>
+    <em> Journal of Geophysical Research: Atmospheres </em>, 128, e2023JD039165 (2023)</td>
  </tr>
  
  <tr>
