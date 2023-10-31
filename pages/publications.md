@@ -70,8 +70,6 @@ Under Review (2023)<BR></td>
  
  <tr>
 <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
-<tr>
-<td></td>  
  <td><strong>Identifying the Causes of Pyrocumulonimbus (PyroCb) <a href="https://arxiv.org/abs/2211.08883">[link]</a></strong><br>
 E. Diaz Salas‐Porras, K. Tazi, A. Braude, D. Okoh, K.D. Lamb, D. Watson‐Parris, P. Harder, N. Meinert <br>
 Workshop on Causality for Real‐world Impact (CML4Impact 2022) <br>
