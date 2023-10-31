@@ -15,10 +15,11 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
 
+ <tr>
 <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">[link]</a></strong><BR>
 K.D. Lamb, P. Gentine.<BR>
-Accepted, Scientific Reports (2023)</td>
+<em>Scientific Reports</em> (2023)</td>
 </tr>
 
  <tr> 
@@ -96,6 +97,7 @@ M. Liu, H. Matsui, D.S. Hamilton, K.D. Lamb, S.D. Rathod, J.P. Schwarz, N.M. Mah
 C.C. Womack, K.M. Manfred, N.L. Wagner, G. Adler, A. Franchin, K.D. Lamb, A.M. Middlebrook, J.P. Schwarz, C.A. Brock, S.S. Brown, R.A. Washenfelder.<br>
 <em>Atmospheric Chemistry and Physics</em>, 21, 7235-7252 (2021)</td>
  </tr>
+ 
 <tr> 
  <td></td>
 <td><strong>Temporal and spatial variations of aerosol optical properties over the Korean peninsula during KORUS‐AQ <a href="https://www.sciencedirect.com/science/article/pii/S1352231021001199">[link]</a> </strong><br>
