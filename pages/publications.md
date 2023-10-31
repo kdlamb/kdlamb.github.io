@@ -16,7 +16,7 @@ image: waves-band.jpeg
  </tr>
 
 <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">[preprint]</a></strong><BR>
+<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">[link]</a></strong><BR>
 K.D. Lamb, P. Gentine.<BR>
 Accepted, Scientific Reports (2023)</td>
 </tr>
