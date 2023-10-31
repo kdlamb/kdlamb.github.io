@@ -21,7 +21,7 @@ Clouds and aerosols remain some of the greatest sources of uncertainty for futur
 Improving representations of aerosol and cloud microphysics in atmospheric models is key to accurately predicting future changes in climate. However current microphysical schemes are limited by both structural and parametric uncertainty in their representation of microphysical processes. Machine learning can be used to emulate more expensive computational models or to develop parameterizations of processes directly from observations and higher resolution models using reduced-order model approaches.
 <br>
 <p style="text-align: left" align="justify">
-<small> [1] <a href="https://arxiv.org/abs/2107.10197">Lamb and Gentine. Under review (2023) </a> </small><br>
+<small> [1] <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">Lamb and Gentine. Scientific Reports (2023) </a> </small><br>
 <small> [2] <a href="https://www.authorea.com/users/553026/articles/653967-reduced-order-modeling-for-linearized-representations-of-microphysical-process-rates">Lamb, van Lier Walqui, Santos, Morrison. Under review (2023) </a> </small></p> <br>
 
 &ensp;

@@ -14,9 +14,30 @@ image: waves-band.jpeg
     <td><b style="width:20px"></b></td>
     <td><b style="width:400px"></b></td>
  </tr>
+
+<td><strong>2023<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">[preprint]</a></strong><BR>
+K.D. Lamb, P. Gentine.<BR>
+Accepted, Scientific Reports (2023)</td>
+</tr>
+
+ <tr> 
+<td></td>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using a Graph Neural Network‐Based PM2.5 Forecasting System</strong><br>
+K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
+Tackling Climate Change with Machine Learning Workshop <br>
+2023 Conference on Neural Information Processing Systems<br></td>
+</tr>
+
+<tr> 
+<td></td>
+<td><strong>Understanding and Visualizing Droplet Distributions in Simulations of Shallow Clouds with Variational Autoencoders</strong><br>
+J. Will, A. Jenney, K.D. Lamb, M.S. Pritchard, C. Kaul, P-L Ma, K. Pressel, J. Shpund, M. van Lier Walqui, S. Mandt<br>
+Machine Learning and the Physical Sciences Workshop <br>
+2023 Conference on Neural Information Processing Systems<br></td>
+</tr>
  
 <tr>
-    <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
     <td><strong>Pyrocumulonimbus affect average stratospheric aerosol composition<a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
     J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     <em>Science</em>, 379, 6634 (2023)</td>
@@ -48,10 +69,6 @@ Under Review (2023)<BR></td>
  
  <tr>
 <td><strong>2022<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://arxiv.org/abs/2107.10197">[preprint]</a></strong><BR>
-K.D. Lamb, P. Gentine.<BR>
-Under review (2022)</td>
-</tr>
 <tr>
 <td></td>  
  <td><strong>Identifying the Causes of Pyrocumulonimbus (PyroCb) <a href="https://arxiv.org/abs/2211.08883">[link]</a></strong><br>
