@@ -17,14 +17,14 @@ image: waves-band.jpeg
 
  <tr>
 <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">[link]</a></strong><BR>
+<td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8">[link]</a></strong><BR>
 K.D. Lamb, P. Gentine.<BR>
 <em>Scientific Reports</em> (2023)</td>
 </tr>
 
  <tr> 
 <td></td>
-<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using a Graph Neural Network‐Based PM2.5 Forecasting System</strong><br>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using a Graph Neural Network‐Based PM2.5 Forecasting System <a href="https://arxiv.org/abs/2312.04291">[link]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 Tackling Climate Change with Machine Learning Workshop <br>
 2023 Conference on Neural Information Processing Systems<br></td>
@@ -32,7 +32,7 @@ Tackling Climate Change with Machine Learning Workshop <br>
 
 <tr> 
 <td></td>
-<td><strong>Understanding and Visualizing Droplet Distributions in Simulations of Shallow Clouds with Variational Autoencoders</strong><br>
+<td><strong>Understanding and Visualizing Droplet Distributions in Simulations of Shallow Clouds with Variational Autoencoders <a href="https://arxiv.org/abs/2310.20168">[link]</a></strong><br>
 J. Will, A. Jenney, K.D. Lamb, M.S. Pritchard, C. Kaul, P-L Ma, K. Pressel, J. Shpund, M. van Lier Walqui, S. Mandt<br>
 Machine Learning and the Physical Sciences Workshop <br>
 2023 Conference on Neural Information Processing Systems<br></td>
@@ -40,7 +40,7 @@ Machine Learning and the Physical Sciences Workshop <br>
  
 <tr>
 <td></td>
-    <td><strong>Pyrocumulonimbus affect average stratospheric aerosol composition<a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
+    <td><strong>Pyrocumulonimbus affect average stratospheric aerosol composition <a href="https://www.science.org/doi/10.1126/science.add3101">[link]</a></strong><BR>
     J.M Katich, E. Apel, I. Bourgeois, C. Brock, T.P. Bui, P. Campuzano-Jost, R. Commane, B. Daube, M. Dollner, M. Fromm, K.D. Froyd, A.J. Hills, R.S. Hornbrook, J. Jimenez, A. Kupc, K.D. Lamb, K. McKain, F. Moore, D.M. Murphy, B.A. Nault, J. Peischl, D.A. Peterson, E.A. Ray, K.H. Rosenlof, T. Ryerson, G.P. Schill, J.C. Schroder, B. Weinzierl, C. Thompson, C.J. Williamson, S. Wofsy, P. Yu, J.P. Schwarz.<BR>
     <em>Science</em>, 379, 6634 (2023)</td>
  </tr>
@@ -241,6 +241,7 @@ K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 
 # Media and Press
 <hr style="width:70%">
+How AI Could Power the Climate Breakthroughs the World Needs, CNN, November (2023) <a href="https://www.cnn.com/2023/11/26/tech/ai-climate-solutions">[link]</a> <br>
 Towering Wildfire Clouds Are Affecting the Stratosphere, and the Climate, State of the Planet, February (2023) <a href="https://news.climate.columbia.edu/2023/02/28/towering-wildfire-clouds-are-affecting-the-stratosphere-and-the-climate/">[link]</a> <br>
 Can Climate Models Aid Adaptation Efforts with Help from A.I.?, Sustain What? Webcast, December (2022) <a href="https://www.earth.columbia.edu/videos/view/can-climate-models-aid-adaptation-efforts-with-help-from-a-i-question">[link]</a> <br>
 How Studying the Clouds Can Improve Climate Models, State of the Planet, November (2022) <a href="https://news.climate.columbia.edu/2022/11/23/how-studying-the-clouds-can-improve-climate-models/">[link]</a> <br>
