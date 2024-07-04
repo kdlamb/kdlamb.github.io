@@ -26,7 +26,7 @@ Under Review (2024)<br></td>
 <td></td>
 <td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1454/">[preprint]</a></strong><BR>
 M. Liu, H. Matsui, D. Hamilton, S. Rathod, K.D. Lamb, N. Mahowald.<BR> 
-Under Review <em> Atmospheric Chemistry and Physics</em> (2024)</td>
+Under Review, <em> Atmospheric Chemistry and Physics</em> (2024)</td>
  </tr>
  
  <tr> 
