@@ -15,10 +15,9 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
 
+ <tr>
 <td><strong>2024<BR><BR><BR><BR><BR></strong></td>
- <tr> 
-<td></td>
-<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using a Graph Neural Network‐Based PM2.5 Forecasting System <a href="https://arxiv.org/abs/2312.04291">[preprint]</a></strong><br>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://arxiv.org/pdf/2312.04291">[preprint]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 Under Review (2024)<br></td>
 </tr>
@@ -41,7 +40,7 @@ K.D. Lamb, M. van Lier Walqui, S.P. Santos, H. Morrison.<BR>
 <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8">[link]</a></strong><BR>
 K.D. Lamb, P. Gentine.<BR>
-<em>Scientific Reports</em> (2023)</td>
+<em>Scientific Reports</em> 13, 18777 (2023)</td>
 </tr>
 
  <tr> 
