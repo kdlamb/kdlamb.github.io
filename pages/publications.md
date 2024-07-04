@@ -15,6 +15,28 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
 
+<td><strong>2024<BR><BR><BR><BR><BR></strong></td>
+ <tr> 
+<td></td>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using a Graph Neural Network‐Based PM2.5 Forecasting System <a href="https://arxiv.org/abs/2312.04291">[preprint]</a></strong><br>
+K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
+Under Review (2024)<br></td>
+</tr>
+
+ <tr> 
+<td></td>
+<td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1454/">[preprint]</a></strong><BR>
+M. Liu, H. Matsui, D. Hamilton, S. Rathod, K.D. Lamb, N. Mahowald.<BR> 
+Under Review <em> Atmospheric Chemistry and Physics</em> (2024)</td>
+ </tr>
+ 
+ <tr> 
+<td></td>
+<td><strong>Reduced Order Modeling for Linearized Representations of Microphysical Process Rates <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003918">[link]</a></strong><BR>
+K.D. Lamb, M. van Lier Walqui, S.P. Santos, H. Morrison.<BR> 
+<em>Journal of Advances in Modeling Earth Systems</em>, 16, 7 (2024)</td>
+ </tr>
+
  <tr>
 <td><strong>2023<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Zero‐Shot Learning of Aerosol Optical Properties Using Graph Neural Networks <a href="https://www.nature.com/articles/s41598-023-45235-8">[link]</a></strong><BR>
@@ -55,12 +77,6 @@ S. Shamekh, K.D. Lamb, Y. Huang, P. Gentine.<BR>
      <td><strong>Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds--<BR>Part 1: Model description and sensitivity tests <a href="https://acp.copernicus.org/articles/23/6043/2023/">[link]</a></strong><BR>
 K.D. Lamb,  J. Harrington, B.W. Clouser, E.J. Moyer, L. Sarkozy, V. Ebert, O. Möhler, H. Saathoff.<BR> 
 <em>Atmospheric Chemistry and Physics</em>, 23, 6043-6064 (2023)<BR></td>
- </tr>
-      <tr>
- <td></td>
-     <td><strong>Reduced Order Modeling for Linearized Representations of Microphysical Process Rates <a href="https://www.authorea.com/users/553026/articles/653967-reduced-order-modeling-for-linearized-representations-of-microphysical-process-rates">[preprint]</a></strong><BR>
-K.D. Lamb, M. van Lier Walqui, S.P. Santos, H. Morrison.<BR> 
-Under Review (2023)<BR></td>
  </tr>
     <tr>
     <td></td>    
