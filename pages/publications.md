@@ -14,12 +14,29 @@ image: waves-band.jpeg
     <td><b style="width:20px"></b></td>
     <td><b style="width:400px"></b></td>
  </tr>
+ 
+  <tr>
+<td><strong>2024<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression</strong><br>
+K.D. Lamb and J.Y. Harrington<br>
+Submitted, Machine Learning for the Physical Sciences Workshop <br>
+2024 Conference on Neural Information Processing Systems<br></td>
+</tr>
 
  <tr>
-<td><strong>2024<BR><BR><BR><BR><BR></strong></td>
+<td></td>
+<td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition</strong><br>
+M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
+Submitted, Tackling Climate Change with Machine Learning Workshop <br>
+2024 Conference on Neural Information Processing Systems<br></td>
+</tr>
+ 
+
+ <tr>
+<td></td>
 <td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://arxiv.org/pdf/2312.04291">[preprint]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
-Under Review (2024)<br></td>
+Under Review, <em> Environmental Data Science</em> (2024)<br></td>
 </tr>
 
  <tr> 
