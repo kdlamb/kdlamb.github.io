@@ -273,6 +273,7 @@ K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 
 # Media and Press
 <hr style="width:70%">
+We’re finally solving the puzzle of how clouds will affect our climate, New Scientist, September (2024) <a href="https://www.newscientist.com/article/mg26335070-800-were-finally-solving-the-puzzle-of-how-clouds-will-affect-our-climate/">[link]</a> <br>
 How AI Could Power the Climate Breakthroughs the World Needs, CNN, November (2023) <a href="https://www.cnn.com/2023/11/26/tech/ai-climate-solutions">[link]</a> <br>
 Towering Wildfire Clouds Are Affecting the Stratosphere, and the Climate, State of the Planet, February (2023) <a href="https://news.climate.columbia.edu/2023/02/28/towering-wildfire-clouds-are-affecting-the-stratosphere-and-the-climate/">[link]</a> <br>
 Can Climate Models Aid Adaptation Efforts with Help from A.I.?, Sustain What? Webcast, December (2022) <a href="https://www.earth.columbia.edu/videos/view/can-climate-models-aid-adaptation-efforts-with-help-from-a-i-question">[link]</a> <br>
