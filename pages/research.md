@@ -16,7 +16,7 @@ My research lies at the intersection of observations (from laboratory and aircra
 Clouds and aerosols remain some of the greatest sources of uncertainty for future climate projections, as these processes happen at scales smaller than climate model grids (∼100 km), but involve complex, non-linear, and multi-scale behavior that is challenging to parameterize. Scientific machine learning offers new ways to use models and observations to improve representations of cloud and aerosol processes in models, both by improving physical understanding of microphysical (small-scale) processes, and through developing innovative approaches for parameterizing larger-scale (macrophysical) cloud processes.
 
 <h4 style="text-align: left;">Aerosol and Cloud Microphysics</h4>
-<img src="./assets/img/wave-clouds.JPG" alt="drawing" width="200" align="right"/>
+<img src="./assets/img/cloudfields.jpg" alt="drawing" width="200" align="right"/>
 <p style="text-align: left" align="justify">
 Improving representations of aerosol and cloud microphysics in atmospheric models is key to accurately predicting future changes in climate. However current microphysical schemes are limited by both structural and parametric uncertainty in their representation of microphysical processes. Machine learning can be used to emulate more expensive computational models or to develop parameterizations of processes directly from observations and higher resolution models using reduced-order model approaches.
 <br>
@@ -27,7 +27,7 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 &ensp;
 
 <h4 style="text-align: right;">Parameterizing Cloud Macrophysics</h4>
-<img src="./assets/img/CloudOrg.jpeg" alt="drawing" width="200" align="left"/>
+<img src="./assets/img/wave-clouds.JPG" alt="drawing" width="200" align="left"/>
 <p style="text-align: right" align="justify">
 The amount of sunlight clouds reflect back to space or absorb in the atmosphere plays an important role in the Earth’s energy budget, impacting the total climate system. Clouds form complex patterns that evolve over time, and are challenging to parameterize in models. The spatial-temporal organization of clouds and convection plays an important role in their lifetime and the amount and timing of precipitation. Machine learning can be used to develop novel metrics for representing sub-grid-scale cloud macrophysical properties in large-scale models.
 <br>
