@@ -19,7 +19,7 @@ image: waves-band.jpeg
 <td><strong>2024<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression</strong><br>
 K.D. Lamb and J.Y. Harrington<br>
-Submitted, Machine Learning for the Physical Sciences Workshop <br>
+Accepted, Machine Learning for the Physical Sciences Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
@@ -27,7 +27,7 @@ Submitted, Machine Learning for the Physical Sciences Workshop <br>
 <td></td>
 <td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition</strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
-Submitted, Tackling Climate Change with Machine Learning Workshop <br>
+Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
 </tr>
  
@@ -43,7 +43,7 @@ Under Review, <em> Environmental Data Science</em> (2024)<br></td>
 <td></td>
 <td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1454/">[preprint]</a></strong><BR>
 M. Liu, H. Matsui, D. Hamilton, S. Rathod, K.D. Lamb, N. Mahowald.<BR> 
-Under Review, <em> Atmospheric Chemistry and Physics</em> (2024)</td>
+Accepted, <em> Atmospheric Chemistry and Physics</em> (2024)</td>
  </tr>
  
  <tr> 
