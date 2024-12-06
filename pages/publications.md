@@ -17,17 +17,17 @@ image: waves-band.jpeg
  
   <tr>
 <td><strong>2024<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression</strong><br>
+<td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">[preprint]</a></strong><br>
 K.D. Lamb and J.Y. Harrington<br>
-Accepted, Machine Learning for the Physical Sciences Workshop <br>
+Machine Learning for the Physical Sciences Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
  <tr>
 <td></td>
-<td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition</strong><br>
+<td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition </strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
-Accepted, Tackling Climate Change with Machine Learning Workshop <br>
+Tackling Climate Change with Machine Learning Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
 </tr>
  
@@ -41,9 +41,9 @@ Under Review, <em> Environmental Data Science</em> (2024)<br></td>
 
  <tr> 
 <td></td>
-<td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1454/">[preprint]</a></strong><BR>
+<td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://acp.copernicus.org/articles/24/13115/2024/">[link]</a></strong><BR>
 M. Liu, H. Matsui, D. Hamilton, S. Rathod, K.D. Lamb, N. Mahowald.<BR> 
-Accepted, <em> Atmospheric Chemistry and Physics</em> (2024)</td>
+<em> Atmospheric Chemistry and Physics</em>, 24, 13115-13127 (2024)</td>
  </tr>
  
  <tr> 
