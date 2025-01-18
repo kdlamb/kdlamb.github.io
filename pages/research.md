@@ -23,6 +23,9 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 <p style="text-align: left" align="justify">
 <small> [1] <a href="https://www.nature.com/articles/s41598-023-45235-8.epdf?sharing_token=CjnJ9KHCzmGUyEPE9sft69RgN0jAjWel9jnR3ZoTv0Nn-a5Srf0dwc4JB6M9HsC9QDzkO7IKihpfOhCCyfhomtYmSpnPUyYza5d9EzKQtEG05zdTvlNap_uxpBvDHO4VdJcSm0CZvMi5rOL6Qu0sk3c_gJ7pXeZQq8sv-A1sWgQ%3D">Lamb and Gentine. Scientific Reports (2023) </a> </small><br>
 <small> [2] <a href="https://www.authorea.com/users/553026/articles/653967-reduced-order-modeling-for-linearized-representations-of-microphysical-process-rates">Lamb, van Lier Walqui, Santos, Morrison. JAMES (2024) </a> </small></p> <br>
+</small><br>
+<small> [3] <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">Lamb and Harrington, NeurIPS ML4Physics (2024)</a> </small></p> <br>
+
 
 &ensp;
 
