@@ -15,6 +15,13 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
  
+   <tr>
+<td><strong>2025<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
+K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
+<em> Environmental Data Science</em>, 4, e11-14 (2025)<br></td>
+</tr>
+
   <tr>
 <td><strong>2024<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">[preprint]</a></strong><br>
@@ -31,14 +38,6 @@ Tackling Climate Change with Machine Learning Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
 </tr>
  
-
- <tr>
-<td></td>
-<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://arxiv.org/pdf/2312.04291">[preprint]</a></strong><br>
-K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
-Under Review, <em> Environmental Data Science</em> (2024)<br></td>
-</tr>
-
  <tr> 
 <td></td>
 <td><strong>Representation of iron aerosol size distribution is critical in evaluating atmospheric soluble iron input to the ocean <a href="https://acp.copernicus.org/articles/24/13115/2024/">[link]</a></strong><BR>
