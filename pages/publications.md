@@ -17,12 +17,13 @@ image: waves-band.jpeg
  
    <tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
-
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
 <em> Submitted, 2025<br></td>
 </tr>
 
+ <tr>
+<td></td>
 <td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 <em> Environmental Data Science</em>, 4, e11-14 (2025)<br></td>
