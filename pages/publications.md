@@ -15,11 +15,11 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
  
-   <tr>
+<tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
-<em> Submitted, 2025<br></td>
+Submitted, 2025<br></td>
 </tr>
 
  <tr>
