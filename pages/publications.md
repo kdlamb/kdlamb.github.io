@@ -24,6 +24,13 @@ Submitted, 2025<br></td>
 
  <tr>
 <td></td>
+<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
+J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
+Submitted, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 <em> Environmental Data Science</em>, 4, e11-14 (2025)<br></td>
