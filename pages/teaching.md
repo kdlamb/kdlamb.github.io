@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 
-image: wave-clouds-band.jpeg
+image: SKoreaBand.jpg
 permalink: /teaching
 ---
 
-# Courses
+# Teaching
 <hr style="width:70%">
 
 In Summer 2025, I'll be teaching CLMT 5043 in <a href="https://www.climate.columbia.edu">Columbia's Climate School</a> .
