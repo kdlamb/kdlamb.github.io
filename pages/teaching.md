@@ -11,7 +11,6 @@ permalink: /teaching
 In Summer 2025, I'll be teaching CLMT 5043 in <a href="https://www.climate.columbia.edu">Columbia's Climate School</a> .
 
 <h4 style="text-align: left;">CLMT 5043: Machine Learning for Climate Science and Environmental Sustainability</h4>
-<img src="./assets/img/SeoulSampling.jpg" alt="drawing" width="200" align="right"/>
 <p style="text-align: left" align="justify">The application of Machine Learning (ML) to climate science and environmental sustainability has become increasingly 
 popular in recent years, promising to revolutionize how we analyze and address critical environmental challenges. This course will introduce students to the 
 fundamental concepts and methods of ML, emphasizing their practical applications to climate science and environmental sustainability efforts.
@@ -25,6 +24,5 @@ The course is designed to provide familiarity with the design, implementation, a
 As ML tools become increasingly important to these application areas, this course will be invaluable for those looking to interact with scientists and engineers,
  manage scientific projects, and develop policies in the realm of climate science and sustainability. 
 </p> <br>
-<br>
 <p style="text-align: left" align="justify">
 <small> Online textbook: coming soon! </small><br>
