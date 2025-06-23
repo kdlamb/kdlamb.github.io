@@ -10,13 +10,14 @@ menu:
 - {name: 'Research',  url: 'research'}
 - {name: 'Projects',       url: 'campaigns'}
 - {name: 'Publications',      url: 'publications'}
+- {name: 'Teaching',      url: 'teaching'}
 - {name: 'About',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link:  'https://github.com/kdlamb'}
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/kara-diane-lamb/'}
-- {icon: 'twitter', link:   'https://twitter.com/karadlamb'}
+- {icon: 'twitter', link:   'https://bsky.app/profile/karadlamb.bsky.social'}
 - {icon: 'envelope', link:   'mailto:kl3231@columbia.edu'}
 
 
