@@ -19,6 +19,13 @@ image: waves-band.jpeg
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
+Under review, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</a></strong><br>
+A. Doshi and K.D. Lamb<br>
 Submitted, 2025<br></td>
 </tr>
 
