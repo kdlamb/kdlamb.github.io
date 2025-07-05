@@ -24,7 +24,7 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</a></strong><br>
+<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</strong><br>
 A. Doshi and K.D. Lamb<br>
 Submitted, 2025<br></td>
 </tr>
