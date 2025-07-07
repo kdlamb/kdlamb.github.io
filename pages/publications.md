@@ -24,6 +24,13 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
+<td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning</strong><br>
+K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
+Submitted, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</strong><br>
 A. Doshi and K.D. Lamb<br>
 Submitted, 2025<br></td>
