@@ -17,6 +17,13 @@ image: waves-band.jpeg
  
 <tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">[preprint]</a></strong><br>
+K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
+Submitted, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
 Under review, 2025<br></td>
@@ -24,22 +31,16 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning</strong><br>
-K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
+<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
+J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
 Submitted, 2025<br></td>
 </tr>
+
 
  <tr>
 <td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</strong><br>
 A. Doshi and K.D. Lamb<br>
-Submitted, 2025<br></td>
-</tr>
-
- <tr>
-<td></td>
-<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
-J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
 Submitted, 2025<br></td>
 </tr>
 
