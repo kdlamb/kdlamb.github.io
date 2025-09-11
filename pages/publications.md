@@ -19,7 +19,14 @@ image: waves-band.jpeg
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">[preprint]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
-Submitted, 2025<br></td>
+Under review, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery</strong><br>
+J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
+Under review, 2025<br></td>
 </tr>
 
  <tr>
@@ -33,15 +40,15 @@ Under review, 2025<br></td>
 <td></td>
 <td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
 J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
-Submitted, 2025<br></td>
+Under review, 2025<br></td>
 </tr>
 
 
  <tr>
 <td></td>
-<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)</strong><br>
+<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
-Submitted, 2025<br></td>
+Under review, 2025<br></td>
 </tr>
 
  <tr>
@@ -301,6 +308,7 @@ K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 
 # Media and Press
 <hr style="width:70%">
+Need To Know: Geoengineering and Cloud Seeding. State of the Planet, July (2025). <a href="https://news.climate.columbia.edu/2025/07/17/geoengineering-cloud-seeding/">[link]</a> <br>
 We’re finally solving the puzzle of how clouds will affect our climate, New Scientist, September (2024) <a href="https://www.newscientist.com/article/mg26335070-800-were-finally-solving-the-puzzle-of-how-clouds-will-affect-our-climate/">[link]</a> <br>
 How AI Could Power the Climate Breakthroughs the World Needs, CNN, November (2023) <a href="https://www.cnn.com/2023/11/26/tech/ai-climate-solutions">[link]</a> <br>
 Towering Wildfire Clouds Are Affecting the Stratosphere, and the Climate, State of the Planet, February (2023) <a href="https://news.climate.columbia.edu/2023/02/28/towering-wildfire-clouds-are-affecting-the-stratosphere-and-the-climate/">[link]</a> <br>
