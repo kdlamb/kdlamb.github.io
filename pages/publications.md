@@ -24,7 +24,7 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery</strong><br>
+<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
 J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
 Under review, 2025<br></td>
 </tr>
@@ -46,7 +46,7 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE)<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
+<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
 Under review, 2025<br></td>
 </tr>
@@ -60,7 +60,7 @@ K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 
   <tr>
 <td><strong>2024<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">[preprint]</a></strong><br>
+<td><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential Equations and Symbolic Regression <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">[link]</a></strong><br>
 K.D. Lamb and J.Y. Harrington<br>
 Machine Learning for the Physical Sciences Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
