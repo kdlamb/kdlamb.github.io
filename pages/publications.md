@@ -24,6 +24,14 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
+<td><strong>Understanding Ice Crystal Habit Diversity with Self-Supervised Learning <a href="https://arxiv.org/abs/2509.07688">[preprint]</a></strong><br>
+J. Ko, H. Govindarajan, F. Lindsten, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
+Submitted, 2025<br></td>
+</tr>
+
+
+ <tr>
+<td></td>
 <td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
 J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
 Under review, 2025<br></td>
