@@ -76,7 +76,7 @@ Machine Learning for the Physical Sciences Workshop <br>
 
  <tr>
 <td></td>
-<td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition <a href="https://www.climatechange.ai/papers/neurips2024/66">[link]</a></strong></strong><br>
+<td><strong>Spatio-Temporal Machine Learning Models for Emulation of Global Atmospheric Composition <a href="https://www.climatechange.ai/papers/neurips2024/66">[link]</a></strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
 Tackling Climate Change with Machine Learning Workshop <br>
 2024 Conference on Neural Information Processing Systems<br></td>
