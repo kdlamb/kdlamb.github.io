@@ -26,7 +26,16 @@ Under review, 2025<br></td>
 <td></td>
 <td><strong>Understanding Ice Crystal Habit Diversity with Self-Supervised Learning <a href="https://arxiv.org/abs/2509.07688">[preprint]</a></strong><br>
 J. Ko, H. Govindarajan, F. Lindsten, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
-Submitted, 2025<br></td>
+Accepted, Tackling Climate Change with Machine Learning Workshop <br>
+2025 Conference on Neural Information Processing Systems<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>Interactive Atmospheric Composition Emulation for Next-Generation Earth System Models </strong><br>
+M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
+Accepted, Tackling Climate Change with Machine Learning Workshop <br>
+2025 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
 
