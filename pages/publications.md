@@ -32,7 +32,7 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 
  <tr>
 <td></td>
-<td><strong>Interactive Atmospheric Composition Emulation for Next-Generation Earth System Models </strong><br>
+<td><strong>Interactive Atmospheric Composition Emulation for Next-Generation Earth System Models <a href="https://arxiv.org/abs/2510.10654">[preprint]</a></strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
 Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 2025 Conference on Neural Information Processing Systems<br></td>
