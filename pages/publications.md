@@ -17,6 +17,13 @@ image: waves-band.jpeg
  
 <tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Discovering How Ice Crystals Grow Using Neural ODE's and Symbolic Regression <a href="https://arxiv.org/abs/2510.17935">[preprint]</a></strong><br>
+K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O. Möhler, H. Saathoff<br>
+Submitted, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">[preprint]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
 Under review, 2025<br></td>
