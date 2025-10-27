@@ -7,7 +7,8 @@ image: CloudBand.jpeg
 
 # Research Interests
 <hr style="width:70%">
-My research lies at the intersection of observations (from laboratory and aircraft field studies) and modeling, with the goal of better understanding how aerosols and clouds impact the climate. I am interested in the climate impacts of aerosols sourced from combustion, in cloud microphysical processes in mixed phase and ice clouds, and in better understanding aerosol-cloud interactions. I combine observations and traditional process-based modeling approaches with data science and machine learning, to better understand atmospheric phenomena across a range of scales.
+
+My research develops physics-informed machine learning methods to improve understanding of atmospheric processes and their influence on climate. I use observations (from laboratory, airborne field studies, and remote sensing) and high resolution modeling, integrating data-driven discovery with process-based physical understanding. My current work focuses on cloud microphysical processes, aerosol–cloud interactions, and the impacts of wildfire emissions on climate and air quality, using scientific machine learning to reveal new interpretable physical relationships and improve predictive models. More broadly, I aim to advance scientific AI and data-driven discovery to address long-standing challenges in representing complex, multi-scale physical systems that are sparsely observed. 
 
 <h1 style="text-align: right;">Projects</h1>
 <hr class="right" style="width:70%">
@@ -26,7 +27,8 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 </small><br>
 <small> [3] <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">Lamb and Harrington, NeurIPS ML4Physics (2024)</a> 
 </small><br> 
-<small> [4] <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">Lamb et al. submitted (2025)</a> </small></p> <br>
+<small> [4] <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">Lamb et al., Under review (2025)</a> </small></p> <br>
+<small> [5] <a href="https://arxiv.org/abs/2510.10654">Erfani et al., Under review (2025)</a> </small></p> <br>
 
 &ensp;
 
@@ -107,6 +109,7 @@ Advanced data analysis techniques such as machine learning can be used to improv
 <br>
 <small> [1] <a href="https://amt.copernicus.org/articles/12/3885/2019/">Lamb, Atmospheric Measurement Techniques (2019)</a> </small><br>
 <small> [2] <a href="https://www.climatechange.ai/papers/neurips2019/52.html">Lamb, Neurips 2019 Tackling Climate Change with AI (2019)</a> </small><br>
+<small> [3] <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">Doshi and Lamb, Atmospheric Measurement Techniques Discussion, under review (2025)</a> </small><br>
 </p> <br>
 
 &ensp;
