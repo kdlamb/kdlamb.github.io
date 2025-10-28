@@ -27,7 +27,7 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 </small><br>
 <small> [3] <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">Lamb and Harrington, NeurIPS ML4Physics (2024)</a> 
 </small><br> 
-<small> [4] <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">Lamb et al., Under review (2025)</a> </small></p> <br>
+<small> [4] <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">Lamb et al., Under review (2025)</a> </small><br>
 <small> [5] <a href="https://arxiv.org/abs/2510.10654">Erfani et al., Under review (2025)</a> </small></p> <br>
 
 &ensp;
