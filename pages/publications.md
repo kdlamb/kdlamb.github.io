@@ -62,17 +62,16 @@ Under review, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
-J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
-Under review, 2025<br></td>
-</tr>
-
-
- <tr>
-<td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
 Under review, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
+J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
+Accepted, Communications Physics, 2025<br></td>
 </tr>
 
  <tr>
