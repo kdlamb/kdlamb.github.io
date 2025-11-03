@@ -48,13 +48,6 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 
  <tr>
 <td></td>
-<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
-J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
-Under review, 2025<br></td>
-</tr>
-
- <tr>
-<td></td>
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
 Under review, 2025<br></td>
@@ -65,6 +58,13 @@ Under review, 2025<br></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
 Under review, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
+J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
+Accepted, Journal of Geophysical Research: Machine Learning and Computation, 2025<br></td>
 </tr>
 
  <tr>
