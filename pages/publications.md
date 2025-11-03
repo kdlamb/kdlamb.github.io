@@ -64,14 +64,14 @@ Under review, 2025<br></td>
 <td></td>
 <td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
 J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
-Accepted, Journal of Geophysical Research: Machine Learning and Computation, 2025<br></td>
+Accepted, <em>Journal of Geophysical Research: Machine Learning and Computation</em>, 2025<br></td>
 </tr>
 
  <tr>
 <td></td>
 <td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
 J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
-Accepted, Communications Physics, 2025<br></td>
+Accepted, <em>Communications Physics</em>, 2025<br></td>
 </tr>
 
  <tr>
