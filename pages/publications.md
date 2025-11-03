@@ -45,19 +45,18 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 2025 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
-
- <tr>
-<td></td>
-<td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
-J.J. Donahue, K.D. Lamb<br>
-Under review, 2025<br></td>
-</tr>
-
  <tr>
 <td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
 Under review, 2025<br></td>
+</tr>
+
+ <tr>
+<td></td>
+<td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
+J.J. Donahue, K.D. Lamb<br>
+Accepted, <em>Scientific Data</em>, 2025<br></td>
 </tr>
 
  <tr>
