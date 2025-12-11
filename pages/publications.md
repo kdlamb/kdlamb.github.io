@@ -26,7 +26,7 @@ Submitted, 2025<br></td>
 <td></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">[preprint]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
-Under review, 2025<br></td>
+Accepted, Journal of Advances in Modeling Earth Systems, 2025<br></td>
 </tr>
 
  <tr>
@@ -49,7 +49,7 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 <td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
-Under review, 2025<br></td>
+Accepted, Atmospheric Measurement Techniques, 2025<br></td>
 </tr>
 
  <tr>
@@ -61,16 +61,16 @@ Accepted, <em>Scientific Data</em>, 2025<br></td>
 
  <tr>
 <td></td>
-<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://arxiv.org/abs/2507.19759">[preprint]</a></strong><br>
+<td><strong>A Machine Learning Framework for Predicting Microphysical Properties of Ice Crystals from Cloud Particle Imagery <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000905">[link]</a></strong><br>
 J. Ko, J.Y. Harrington, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
-Accepted, <em>Journal of Geophysical Research: Machine Learning and Computation</em>, 2025<br></td>
+<em>Journal of Geophysical Research: Machine Learning and Computation</em>, 2, 4, e2025JH000905, 2025<br></td>
 </tr>
 
  <tr>
 <td></td>
-<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://arxiv.org/abs/2505.14828">[preprint]</a></strong><br>
+<td><strong>Deep Koopman operator framework for causal discovery in nonlinear dynamical systems <a href="https://www.nature.com/articles/s42005-025-02426-1">[link]</a></strong><br>
 J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br>
-Accepted, <em>Communications Physics</em>, 2025<br></td>
+<em>Communications Physics</em>, 2025<br></td>
 </tr>
 
  <tr>
