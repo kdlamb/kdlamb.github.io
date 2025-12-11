@@ -26,7 +26,7 @@ Submitted, 2025<br></td>
 <td></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">[preprint]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
-Accepted, Journal of Advances in Modeling Earth Systems, 2025<br></td>
+Accepted, <em>Journal of Advances in Modeling Earth Systems</em>, 2025<br></td>
 </tr>
 
  <tr>
@@ -49,7 +49,7 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 <td></td>
 <td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
-Accepted, Atmospheric Measurement Techniques, 2025<br></td>
+Accepted, <em>Atmospheric Measurement Techniques</em>, 2025<br></td>
 </tr>
 
  <tr>
