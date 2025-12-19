@@ -33,7 +33,7 @@ Accepted, <em>Journal of Advances in Modeling Earth Systems</em>, 2025<br></td>
 <td></td>
 <td><strong>Understanding Ice Crystal Habit Diversity with Self-Supervised Learning <a href="https://arxiv.org/abs/2509.07688">[preprint]</a></strong><br>
 J. Ko, H. Govindarajan, F. Lindsten, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
-Accepted, Tackling Climate Change with Machine Learning Workshop <br>
+Tackling Climate Change with Machine Learning Workshop <br>
 2025 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
@@ -41,22 +41,22 @@ Accepted, Tackling Climate Change with Machine Learning Workshop <br>
 <td></td>
 <td><strong>Interactive Atmospheric Composition Emulation for Next-Generation Earth System Models <a href="https://arxiv.org/abs/2510.10654">[preprint]</a></strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
-Accepted, Tackling Climate Change with Machine Learning Workshop <br>
+Tackling Climate Change with Machine Learning Workshop <br>
 2025 Conference on Neural Information Processing Systems<br></td>
 </tr>
 
  <tr>
 <td></td>
-<td><strong>Unsupervised Classification of Absorbing Aerosols with the SP2 via a Variational Autoencoder (VAE) <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">[preprint]</a></strong><br>
+<td><strong>Unsupervised classification of absorbing aerosols detected by the Single Particle Soot Photometer <a href="https://amt.copernicus.org/articles/18/7767/2025/amt-18-7767-2025.html">[link]</a></strong><br>
 A. Doshi and K.D. Lamb<br>
-Accepted, <em>Atmospheric Measurement Techniques</em>, 2025<br></td>
+<em>Atmospheric Measurement Techniques</em>, 18, 7767–7786, 2025<br></td>
 </tr>
 
  <tr>
 <td></td>
-<td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://arxiv.org/abs/2505.01555">[preprint]</a></strong><br>
+<td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://www.nature.com/articles/s41597-025-06273-1">[link]</a></strong><br>
 J.J. Donahue, K.D. Lamb<br>
-Accepted, <em>Scientific Data</em>, 2025<br></td>
+<em>Scientific Data</em>, 2025<br></td>
 </tr>
 
  <tr>
