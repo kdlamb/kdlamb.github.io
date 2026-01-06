@@ -15,11 +15,8 @@ image: waves-band.jpeg
     <td><b style="width:400px"></b></td>
  </tr>
  
-   <tr>
+<tr>
 <td><strong>2026<BR><BR><BR><BR><BR></strong></td>
-
- <tr>
-<td></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005341">[link]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
 <em>Journal of Advances in Modeling Earth Systems</em>, 18, 1, 2026<br></td>
