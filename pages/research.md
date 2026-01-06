@@ -27,7 +27,7 @@ Improving representations of aerosol and cloud microphysics in atmospheric model
 </small><br>
 <small> [3] <a href="https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_208.pdf">Lamb and Harrington, NeurIPS ML4Physics (2024)</a> 
 </small><br> 
-<small> [4] <a href="https://essopenarchive.org/users/553026/articles/1314217-perspectives-on-systematic-cloud-microphysics-scheme-development-with-machine-learning?commit=3355424c1b1db729b5e75a06761800b8e1918168">Lamb et al., Under review (2025)</a> </small><br>
+<small> [4] <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005341">Lamb et al., JAMES (2026)</a> </small><br>
 <small> [5] <a href="https://arxiv.org/abs/2510.10654">Erfani et al., Under review (2025)</a> </small></p> <br>
 
 &ensp;
@@ -109,7 +109,7 @@ Advanced data analysis techniques such as machine learning can be used to improv
 <br>
 <small> [1] <a href="https://amt.copernicus.org/articles/12/3885/2019/">Lamb, Atmospheric Measurement Techniques (2019)</a> </small><br>
 <small> [2] <a href="https://www.climatechange.ai/papers/neurips2019/52.html">Lamb, Neurips 2019 Tackling Climate Change with AI (2019)</a> </small><br>
-<small> [3] <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3210/">Doshi and Lamb, Atmospheric Measurement Techniques Discussion, under review (2025)</a> </small><br>
+<small> [3] <a href="https://amt.copernicus.org/articles/18/7767/2025/">Doshi and Lamb, Atmospheric Measurement Techniques (2025)</a> </small><br>
 </p> <br>
 
 &ensp;
