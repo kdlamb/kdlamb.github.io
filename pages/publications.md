@@ -21,6 +21,14 @@ image: waves-band.jpeg
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
 <em>Journal of Advances in Modeling Earth Systems</em>, 18, 1, 2026<br></td>
 </tr>
+
+ <tr>
+<td></td>
+<td><strong>Spatio-Temporal Machine Learning Approaches for Atmospheric Composition Emulation in NASA GISS ModelE</strong><br>
+M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
+Accepted, <em>Journal of Geophysical Research: Machine Learning and Computation</em>, 2026 <br></td>
+</tr>
+ 
  
 <tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
