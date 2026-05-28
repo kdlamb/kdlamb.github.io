@@ -17,6 +17,12 @@ image: waves-band.jpeg
  
 <tr>
 <td><strong>2026<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
+G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
+Submitted, 2026<br></td>
+
+ <tr>
+<td></td>
 <td><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with Machine Learning <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005341">[link]</a></strong><br>
 K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. Hu, M. van Lier Walqui, P. Gentine<br>
 <em>Journal of Advances in Modeling Earth Systems</em>, 18, 1, 2026<br></td>
@@ -26,7 +32,7 @@ K.D. Lamb, C.E. Singer, K. Loftus, H. Morrison, M. Powell, J. Ko, J. Buch, A.Z. 
 <td></td>
 <td><strong>Spatio-Temporal Machine Learning Approaches for Atmospheric Composition Emulation in NASA GISS ModelE</strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
-Accepted, <em>Journal of Geophysical Research: Machine Learning and Computation</em>, 2026 <br></td>
+<em>Journal of Geophysical Research: Machine Learning and Computation</em>, 3, no. 3, e2025JH001011, doi:10.1029/2025JH001011, 2026 <br></td>
 </tr>
  
  
