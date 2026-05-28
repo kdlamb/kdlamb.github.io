@@ -20,6 +20,7 @@ image: waves-band.jpeg
 <td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
 Submitted, 2026<br></td>
+</tr>
 
  <tr>
 <td></td>
