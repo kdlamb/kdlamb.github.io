@@ -13,7 +13,7 @@ In Summer 2026, I am teaching CLMT 5043 in <a href="https://www.climate.columbia
 <h4 style="text-align: left;">CLMT 5043: Machine Learning for Climate Science and Environmental Sustainability</h4>
 
 <p style="text-align: left" align="justify">
-<a href="https://kdlamb.github.io/ML4Climate2026/intro.html">[Online Textbook (Summer 2026)]</a><br>
+<a href="https://kdlamb.github.io/ML4Climate2026/intro.html">[Online Textbook (Summer 2026)]</a> <a href="https://kdlamb.github.io/ML4Climate2026/accessible/">[Accessible Version]</a><br>
 <a href="https://kdlamb.github.io/ML4Climate2025">[Online Textbook (Summer 2025)]</a><br>
 
 
