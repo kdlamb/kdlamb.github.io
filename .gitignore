@@ -4,3 +4,10 @@ CLAUDE.md
 .idea/
 vendor/
 .bundle/
+
+# Full-resolution source of the homepage hero; the web-sized
+# assets/img/Reservoir.jpg is what the site uses.
+Reservoir.png
+
+# Working document, not for the public repo.
+kdlamb-website-redesign-brief.md
