@@ -1,11 +1,4 @@
 <head>
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
@@ -17,8 +10,6 @@
   //-->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ 'assets/css/main.css' | absolute_url }}">
-  <noscript><link rel="stylesheet" href="{{ 'assets/css/noscript.css' | relative_url }}" /></noscript>
   <link rel="stylesheet" href="{{ 'assets/css/academicons-1.9.1/css/academicons.css' | relative_url }}">
   <noscript><link rel="stylesheet" href="{{ 'assets/css/academicons-1.9.1/css/academicons.min.css' | relative_url }}" /></noscript>
   <script type="text/javascript" async

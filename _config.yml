@@ -10,9 +10,23 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Dr. Kara D. Lamb"
-description:	       "Webpage"
+title:		           "Kara D. Lamb"
+tagline:             "Scientific Machine Learning for Clouds and Climate"
+description:	       "Kara Lamb develops physics-informed and agentic AI methods for cloud microphysics, parameterization development, and Earth system modeling at Columbia University."
 author:              "Kara D. Lamb"
+url:                 "https://kdlamb.github.io"
+lang:                en
+
+# jekyll-seo-tag: Person structured data + social card image
+social:
+  name:              "Kara D. Lamb"
+  links:
+    - https://scholar.google.com/citations?user=G9SNJUMAAAAJ
+    - https://github.com/kdlamb
+    - https://www.linkedin.com/in/kara-diane-lamb/
+    - https://bsky.app/profile/karadlamb.bsky.social
+twitter:
+  card:              summary_large_image
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

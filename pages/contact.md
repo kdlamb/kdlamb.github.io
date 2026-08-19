@@ -1,17 +1,54 @@
 ---
 layout: page
-title: 
+title: About
 permalink: /contact
-image: SunsetBand.jpeg
+image: /assets/img/SunsetBand.jpeg
 ---
 
-<hr style="width:70%">
+<img src="{{ site.github.url }}/assets/img/KLamb.JPG" alt="Portrait of Kara D. Lamb" class="portrait" width="200" height="260" align="right" style="margin: 0 0 16px 24px;"/>
 
-<img src="./assets/img/KLamb.JPG" width="200" align="right"/>
-I am currently an Associate Research Scientist at Columbia University in the <a href="https://gentinelab.eee.columbia.edu/people">Department of Earth and Environmental Engineering</a> and an Affiliate of the <a href="https://datascience.columbia.edu/people/kara-lamb/">Data Science Institute</a>. I received my M.S. and Ph.D. in physics from the University of Chicago, where I was an NSF and NDSEG fellow. Following my Ph.D., I was a researcher in the Chemical Sciences Division at NOAA’s Earth System Research Laboratory, where I was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and the NOAA FIREX Firelab Study, researching the sources of absorbing aerosols, their optical properties, and their direct climate effects. My current research lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling, with the goal of better understanding how aerosols and clouds impact the climate. I combine traditional process-based approaches with data science and machine learning. I am the PI on a <a href="https://asr.science.energy.gov/projects/16120"> DOE project to study depositional ice growth in cirrus clouds </a> and co-PI on a project funded by the Zegar Family Foundation to use AI to optimize cloud seeding to reduce the risk of wildfires in the Western United States. I am also co-leading a project on ice microphysics through the <a href="https://leap.columbia.edu">NSF Learning the Earth with Artificial Intelligence and Physics Center</a> and collaborate with researchers at <a href="https://www.giss.nasa.gov">NASA GISS</a> on the NASA Digital Twins for Climate Science Project.
+<p align="justify">
+Kara D. Lamb is an atmospheric physicist and scientific machine learning researcher at
+Columbia University, where she is an Associate Research Scientist in the
+<a href="https://www.eee.columbia.edu">Department of Earth and Environmental Engineering</a>
+and an Adjunct Assistant Professor in the <a href="https://www.climate.columbia.edu">Climate School</a>.
+She is the Scientific Machine Learning Research Thrust Lead in the NSF
+<a href="https://leap.columbia.edu">Learning the Earth with Artificial Intelligence and Physics (LEAP)</a>
+Center and AI for Science Director on its Executive Committee.
+</p>
 
+<p align="justify">
+Her research develops physics-informed and agentic AI methods for understanding cloud processes
+and improving their representation in Earth system models. She combines laboratory and field
+observations, high-resolution modeling, differentiable programming, generative modeling, and
+equation discovery to study cloud microphysics and to build interpretable, stable
+parameterizations.
+</p>
 
-An up-to-date CV can be <a href="{{site.baseurl}}/assets/cv/CVLamb2022.pdf">here</a>.
+<p align="justify">
+Lamb leads projects supported by the U.S. Department of Energy, Google, NSF LEAP, and private
+foundations. Her current work includes agentic AI for Earth system model development,
+depositional ice growth, turbulent collision&ndash;coalescence, cloud-particle inference,
+atmospheric composition emulation, and causal analysis of cloud seeding impacts. She is an
+Editor at <em>Atmospheric Chemistry and Physics</em>, serves on the US CLIVAR Process Study and
+Model Improvement panel and the AMS Artificial Intelligence Applications to Environmental
+Science committee, and was elected to the Columbia University Senate as a Professional Research
+Officer.
+</p>
 
-Current publications: <a href="https://scholar.google.com/citations?user=G9SNJUMAAAAJ" class="ai ai-google-scholar-square ai-2x"></a> <a href="https://www.researchgate.net/profile/Kara_Lamb" class="ai ai-researchgate-square ai-2x"></a>
+<p align="justify">
+She received her Ph.D. in Physics from the University of Chicago, where she was an NSF and NDSEG
+fellow, and previously worked in NOAA's Chemical Sciences Division, where she participated in the
+NASA KORUS-AQ and AToM aircraft campaigns and the NOAA FIREX Firelab study.
+</p>
 
+<h2>Contact and links</h2>
+
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:kl3231@columbia.edu">kl3231@columbia.edu</a></li>
+  <li><strong>CV:</strong> <a href="{{ site.github.url }}/assets/cv/CVLamb.pdf">Curriculum vitae (PDF)</a></li>
+  <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=G9SNJUMAAAAJ">scholar profile</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/kdlamb">github.com/kdlamb</a></li>
+  <li><strong>Bluesky:</strong> <a href="https://bsky.app/profile/karadlamb.bsky.social">@karadlamb.bsky.social</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kara-diane-lamb/">kara-diane-lamb</a></li>
+</ul>

@@ -1,6 +1,116 @@
 ---
-layout: home
-title: 
+layout: default
+permalink: /
+image: /assets/img/Reservoir.jpg
 ---
+<div class="page-content home">
 
+  <section class="hero">
+    <img class="hero-image" src="{{ site.github.url }}/assets/img/Reservoir.jpg"
+         width="2200" height="1650"
+         alt="A low deck of stratocumulus over the Central Park Reservoir, with the Manhattan skyline reflected in the water">
+    <h1>Kara D. Lamb</h1>
+    <p class="hero-descriptor">Scientific AI for Clouds and Earth System Models</p>
+    <p class="hero-lede">
+      I develop physics-informed and agentic AI methods that connect observations and
+      high-resolution simulations to interpretable, stable representations of unresolved
+      processes in Earth system models. My research focuses on cloud microphysics,
+      differentiable modeling, and automated parameterization development, with applications
+      to precipitation, aerosol&ndash;cloud interactions, and climate interventions.
+    </p>
+    <ul class="hero-affil">
+      <li>Associate Research Scientist, Department of Earth and Environmental Engineering, Columbia University</li>
+      <li>Adjunct Assistant Professor, Climate School, Columbia University</li>
+      <li>Scientific Machine Learning Research Thrust Lead, NSF LEAP Center</li>
+      <li>AI for Science Director, Executive Committee, NSF LEAP Center</li>
+    </ul>
+    <p class="cta-row">
+      <a class="cta" href="{{ site.github.url }}/research">Research program</a>
+      <a class="cta" href="{{ site.github.url }}/campaigns">Current projects</a>
+      <a class="cta" href="{{ site.github.url }}/publications">Publications</a>
+      <a class="cta" href="{{ site.github.url }}/assets/cv/CVLamb.pdf">Download CV</a>
+    </p>
+  </section>
 
+  <section>
+    <h2>Research interests</h2>
+    <div class="cards">
+      <div class="card">
+        <h3><a href="{{ site.github.url }}/research#agentic-ai-for-earth-system-model-development">Agentic AI for Earth system model development</a></h3>
+        <p>We develop multi-agent systems that help design, translate, test, and optimize
+        Earth system model parameterizations. This work combines automated scientific
+        reasoning, differentiable modeling, benchmark development, and rigorous online
+        evaluation to make model development more systematic and reproducible.</p>
+      </div>
+      <div class="card">
+        <h3><a href="{{ site.github.url }}/research#learning-cloud-microphysics">Learning cloud microphysics with physics-informed machine learning</a></h3>
+        <p>We combine laboratory and airborne field observations, high-resolution simulations, and scientific machine learning to discover interpretable cloud microphysical processes and develop improved cloud parameterizations. Current topics include using generative AI and physics-informed machine learning to improve ice microphysical process representation, and using reduced order modeling to parameterize warm rain microphysical processes.</p>
+      </div>
+      <div class="card">
+        <h3><a href="{{ site.github.url }}/research#ai-for-precipitation-and-climate-interventions">AI for precipitation and climate interventions</a></h3>
+        <p>We use large-scale historical data, causal inference, and physically grounded
+        machine learning to evaluate interventions affecting precipitation and climate risk.
+        Current work examines the climatological impacts and optimization of cloud seeding,
+        with connections to water resources, drought, and wildfire risk.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Current highlights</h2>
+    <ul class="highlights">
+      <li>I&rsquo;m co-organizing the
+      <a href="https://representations-physical-sciences.github.io/workshop-2026/">Representations
+      for the Physical Sciences</a> workshop at NeurIPS 2026 in Paris in December.</li>
+      <li>I&rsquo;m an invited speaker in the session &ldquo;Developments in Machine Learning
+      Across Earth System Modeling: Subgrid-Scale Parameterizations, Emulation, and Hybrid
+      Modeling&rdquo; at AGU 2026 in San Francisco in December.</li>
+      <li>I&rsquo;m leading the <a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission">DOE Genesis Mission</a> project
+      <a href="https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding">&ldquo;Cloud Microphysics Multi-Scale Modeling Moonshot (CM4)&rdquo;</a>
+      with collaborators at Columbia, PNNL, NCAR, and UW&ndash;Milwaukee.</li>
+      <li>I&rsquo;m collaborating on the Brookhaven-led <a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission">DOE Genesis Mission</a> project
+      <a href="https://www.bnl.gov/envsci/cloud-chamber/">&ldquo;An Automated, Multimodal-AI-Enabled Cloud Chamber for Constraining
+      Cloud Microphysical Processes.&rdquo;</a></li>
+      <li>I recently received a Google Award for Machine Learning and Education with TPUs to
+      explore how agentic AI and differentiable programming can accelerate Earth system model
+      development.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Selected publications</h2>
+    <ul class="outputs">
+      <li><strong>Discovering How Ice Crystals Grow Using Neural Ordinary Differential
+      Equations and Symbolic Regression</strong>
+      <a href="https://arxiv.org/abs/2510.17935">[preprint]</a><br>
+      Recovers interpretable governing equations for depositional ice growth directly from
+      cloud chamber experiments. <em>In press, 2026.</em></li>
+
+      <li><strong>Perspectives on Systematic Cloud Microphysics Scheme Development with
+      Machine Learning</strong>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005341">[link]</a><br>
+      Lays out a framework for building microphysics schemes systematically rather than
+      piecemeal. <em>Journal of Advances in Modeling Earth Systems, 2026.</em></li>
+
+      <li><strong>Structured Dataset of Reported Cloud Seeding Activities in the United States
+      (2000&ndash;2025) Using a Large Language Model</strong>
+      <a href="https://www.nature.com/articles/s41597-025-06273-1">[link]</a><br>
+      The first large-scale accessible data set of historic U.S. cloud seeding operations.
+      <em>Scientific Data, 2025.</em></li>
+
+      <li><strong>Reduced Order Modeling for Linearized Representations of Microphysical
+      Process Rates</strong>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003918">[link]</a><br>
+      Shows that microphysical process rates admit compact, physically meaningful
+      low-dimensional representations. <em>Journal of Advances in Modeling Earth Systems, 2024.</em></li>
+
+      <li><strong>Implicit Learning of Convective Organization Explains Precipitation
+      Stochasticity</strong>
+      <a href="https://www.pnas.org/doi/10.1073/pnas.2216158120">[link]</a><br>
+      Demonstrates that a learned measure of convective organization accounts for much of the
+      apparent randomness in precipitation. <em>PNAS, 2023.</em></li>
+    </ul>
+    <p><a href="{{ site.github.url }}/publications">All publications &rarr;</a></p>
+  </section>
+
+</div>

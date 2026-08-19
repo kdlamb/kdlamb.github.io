@@ -3,14 +3,15 @@ layout: default
 ---
 
 <div class="page-content">
+  {% if page.image %}
+    <div class="featured-image">
+       <!-- decorative banner: empty alt keeps it out of the accessibility tree -->
+       <img src="{{ page.image | relative_url }}" alt="">
+    </div>
+  {% endif %}
   <h1>
     {{ page.title }}
   </h1>
-  {% if page.image %}
-    <div class="featured-image">
-       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
-  {% endif %}
   <article>
     {{ content }}
   </article>

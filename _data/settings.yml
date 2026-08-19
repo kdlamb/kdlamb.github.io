@@ -6,19 +6,21 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
+# url values are permalinks — /campaigns is kept as-is so existing links keep working
 menu:
-- {name: 'Research',  url: 'research'}
-- {name: 'Projects',       url: 'campaigns'}
-- {name: 'Publications',      url: 'publications'}
+- {name: 'Research',      url: 'research'}
+- {name: 'Projects',      url: 'campaigns'}
+- {name: 'Publications',  url: 'publications'}
 - {name: 'Teaching',      url: 'teaching'}
-- {name: 'About',            url: 'contact'}
+- {name: 'About',         url: 'contact'}
+- {name: 'CV',            url: 'assets/cv/CVLamb.pdf'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link:  'https://github.com/kdlamb'}
-- {icon: 'linkedin', link:    'https://www.linkedin.com/in/kara-diane-lamb/'}
-- {icon: 'twitter', link:   'https://bsky.app/profile/karadlamb.bsky.social'}
-- {icon: 'envelope', link:   'mailto:kl3231@columbia.edu'}
+- {icon: 'github',   label: 'GitHub',   link: 'https://github.com/kdlamb'}
+- {icon: 'linkedin', label: 'LinkedIn', link: 'https://www.linkedin.com/in/kara-diane-lamb/'}
+- {icon: 'twitter',  label: 'Bluesky',  link: 'https://bsky.app/profile/karadlamb.bsky.social'}
+- {icon: 'envelope', label: 'Email',    link: 'mailto:kl3231@columbia.edu'}
 
 
 # Customize site text

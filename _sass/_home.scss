@@ -1,31 +1,133 @@
-.featured-post {
-  height: 400px;
-  margin: 5px 10px 10px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+/*
+  Homepage: hero, thrust cards, highlights, selected outputs.
+  $accent is the one atmospheric accent colour used site-wide.
+*/
+
+$accent: #1f4e6b;
+$measure: 680px;   // prose column width; the hero image matches it
+
+.home {
+  section {
+    margin: 0 0 48px;
+  }
+  h2 {
+    text-align: left;
+    border-bottom: 2px solid $accent;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+  }
 }
-.featured-post h2 {
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
-  position: absolute;
+
+.hero {
+  .hero-image {
+    display: block;
+    width: 100%;
+    max-width: $measure;
+    height: 260px;
+    object-fit: cover;
+    /* 4:3 source cropped to a wide band; 55% centres the crop on the skyline
+       rather than the empty sky. Raise to show more cloud, lower for more water. */
+    object-position: center 55%;
+    margin-bottom: 24px;
+  }
+  @media (max-width: $tablet-width) {
+    .hero-image { height: 180px; }
+  }
+  h1 {
+    text-align: left;
+    margin: 0 0 4px;
+  }
+  .hero-descriptor {
+    font-size: 22px;
+    font-weight: bold;
+    color: $accent;
+    margin: 0 0 16px;
+  }
+  /* shorter measure for prose than the 900px content column */
+  .hero-lede {
+    max-width: $measure;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  /* One appointment per line, flush left. The hanging indent keeps a role
+     that wraps from reading as two separate roles. */
+  .hero-affil {
+    max-width: $measure;
+    font-size: 15px;
+    color: #444;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 8px;
+    text-align: left;
+    li {
+      margin-bottom: 3px;
+      padding-left: 1em;
+      text-indent: -1em;
+    }
+  }
 }
-.featured-post h2 span {
+
+.cta-row {
+  margin-top: 24px;
+}
+.cta {
   display: inline-block;
-  color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
-  letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
-  padding: 10px;
+  margin: 0 8px 8px 0;
+  padding: 9px 16px;
+  border: 1px solid $accent;
+  color: $accent;
+  text-decoration: none;
+  font-size: 15px;
 }
-.featured-post span a {
+.cta:hover,
+.cta:focus {
+  background: $accent;
   color: white;
 }
-.featured-post h1 {
-  margin: 10px;
+
+/* Shared card system: thrusts now, programs and people later. */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  flex: 1 1 260px;
+  border: 1px solid #ddd;
+  border-top: 3px solid $accent;
+  padding: 16px 18px;
+  h3 {
+    text-align: left;
+    margin-top: 0;
+    font-size: 18px;
+    a {
+      color: $accent;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+  p {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+}
+
+.highlights,
+.outputs {
+  max-width: $measure;
+  line-height: 1.55;
+  li {
+    margin-bottom: 12px;
+  }
+}
+
+/* Visible focus ring — the theme supplies none. */
+a:focus,
+button:focus {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
 }
 
 /*
@@ -53,27 +155,4 @@
 }
 .pagination-active:hover {
   background-color: #e0e0e0;
-}
-
-figure {
-	position: relative;
-	margin: auto;
-	text-align: center;
-}
-
-figure img {
-    display: block;
-}
-
-figcaption {
-	display: table-caption;
-	align: center;
-  	margin-top: 10px;
- 	margin-bottom: 10px;
-    color: white;
-    position: absolute;
-    background: rgba(0, 0, 0, 0.5);
-    bottom: 0;
-    left: 0;
-    right: 0;
 }

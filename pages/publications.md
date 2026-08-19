@@ -1,13 +1,17 @@
 ---
 layout: page
-title: 
+title: Publications
 permalink: /publications
-image: waves-band.jpeg
+image: /assets/img/waves-band.jpeg
 ---
 
-# Articles, Preprints, and Conference Papers
-<hr style="width:70%">
+<p>
+<a href="https://scholar.google.com/citations?user=G9SNJUMAAAAJ">Google Scholar</a> &middot;
+<a href="https://github.com/kdlamb">GitHub</a> &middot;
+<a href="{{ site.github.url }}/assets/cv/CVLamb.pdf">Full CV (PDF)</a>
+</p>
 
+<h2>Articles, preprints, and conference papers</h2>
 
 <table border="0">
  <tr>
@@ -17,6 +21,13 @@ image: waves-band.jpeg
  
 <tr>
 <td><strong>2026<BR><BR><BR><BR><BR></strong></td>
+<td><strong>Discovering How Ice Crystals Grow Using Neural ODE's and Symbolic Regression <a href="https://arxiv.org/abs/2510.17935">[preprint]</a></strong><br>
+K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O. Möhler, H. Saathoff<br>
+In press, 2026<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
 Submitted, 2026<br></td>
@@ -39,13 +50,6 @@ M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<
  
 <tr>
 <td><strong>2025<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Discovering How Ice Crystals Grow Using Neural ODE's and Symbolic Regression <a href="https://arxiv.org/abs/2510.17935">[preprint]</a></strong><br>
-K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O. Möhler, H. Saathoff<br>
-Submitted, 2025<br></td>
-</tr>
-
- <tr>
-<td></td>
 <td><strong>Understanding Ice Crystal Habit Diversity with Self-Supervised Learning <a href="https://arxiv.org/abs/2509.07688">[preprint]</a></strong><br>
 J. Ko, H. Govindarajan, F. Lindsten, K. Sulia, V. Przybylo, M. van Lier Walqui, K.D. Lamb<br>
 Tackling Climate Change with Machine Learning Workshop <br>
@@ -70,7 +74,7 @@ A. Doshi and K.D. Lamb<br>
  <tr>
 <td></td>
 <td><strong>Structured dataset of reported cloud seeding activities in the United States (2000 to 2025) using a large language model <a href="https://www.nature.com/articles/s41597-025-06273-1">[link]</a></strong><br>
-J.J. Donahue, K.D. Lamb<br>
+J.J. Donohue, K.D. Lamb<br>
 <em>Scientific Data</em>, 2025<br></td>
 </tr>
 
@@ -90,7 +94,7 @@ J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br
 
  <tr>
 <td></td>
-<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://www.cambridge.org/core/journals/environmental-data-science/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://doi.org/10.1017/eds.2025.4/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 <em> Environmental Data Science</em>, 4, e11-14 (2025)<br></td>
 </tr>
@@ -191,7 +195,7 @@ Tackling Climate Change with Machine Learning Workshop <br>
  
 <tr>
 <td></td>
-<td><strong>The under‐appreciated role of anthropogenic sources in atmospheric soluble iron flux to the Southern Ocean. <a href=" https://www.nature.com/articles/s41612-022-00250-w">[link]</a></strong><br>
+<td><strong>The under‐appreciated role of anthropogenic sources in atmospheric soluble iron flux to the Southern Ocean. <a href="https://www.nature.com/articles/s41612-022-00250-w">[link]</a></strong><br>
 M. Liu, H. Matsui, D.S. Hamilton, K.D. Lamb, S.D. Rathod, J.P. Schwarz, N.M. Mahowald.<br> <em>npj Climate and Atmospheric Science</em> 5, 28 (2022)</td>
  </tr>
 
@@ -343,7 +347,7 @@ K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 &ensp;
 &ensp;
 
-# Media and Press
+<h2>Media and Press</h2>
 <hr style="width:70%">
 Need To Know: Geoengineering and Cloud Seeding. State of the Planet, July (2025). <a href="https://news.climate.columbia.edu/2025/07/17/geoengineering-cloud-seeding/">[link]</a> <br>
 We’re finally solving the puzzle of how clouds will affect our climate, New Scientist, September (2024) <a href="https://www.newscientist.com/article/mg26335070-800-were-finally-solving-the-puzzle-of-how-clouds-will-affect-our-climate/">[link]</a> <br>
