@@ -19,8 +19,6 @@ listed separately.
 <div class="card">
 <h3 id="cm4"><a href="https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding">Cloud Microphysics Multi-Scale Modeling Moonshot (CM4)</a></h3>
 <p><strong>Question:</strong> Can we develop consistent multi-scale representations for turbulence and cloud microphysical processes in Earth system models using AI and DOE ARM observations?</p>
-<p>CM4 applies agentic AI and differentiable modeling to a specific target: multiscale
-cloud microphysics and the parameterizations that represent it.</p>
 <p><strong>Methods:</strong> Agentic AI, differentiable single-column and Earth system modeling,
 automated parameterization development, benchmark design, online evaluation.</p>
 <p><strong>Collaborators:</strong> Columbia, PNNL, NCAR, UW&ndash;Milwaukee<br>
@@ -58,9 +56,7 @@ imagery, perturbed parameter ensembles.</p>
 <div class="card">
 <h3>Systematizing Earth System Model Development with Agentic AI</h3>
 <p><strong>Question:</strong> Can we more systematically develop, integrate, and tune parameterizations in Earth system models?</p>
-<p>This work builds the general, reusable agentic-AI, differentiable-programming, and
-TPU-enabled tooling that model development needs, independent of any single process or
-scheme.</p>
+
 <p><strong>Methods:</strong> Differentiable modeling, agentic AI, large-scale training on TPUs, benchmarking.</p>
 <p><strong>Funding:</strong> Google Awards for Machine Learning and Education with TPUs</p>
 </div>
