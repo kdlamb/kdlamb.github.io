@@ -3,8 +3,6 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
 
 # url values are permalinks — /campaigns is kept as-is so existing links keep working
 menu:
