@@ -10,8 +10,7 @@ image: /assets/img/SunsetBand.jpeg
 <p align="justify">
 I am an atmospheric physicist and scientific machine learning researcher at
 Columbia University, where I am an Associate Research Scientist in the
-<a href="https://www.eee.columbia.edu">Department of Earth and Environmental Engineering</a>
-and an Adjunct Assistant Professor in the <a href="https://www.climate.columbia.edu">Climate School</a>.
+<a href="https://www.eee.columbia.edu">Department of Earth and Environmental Engineering</a>.
 I lead the Scientific Machine Learning Research Thrust Group at the NSF
 <a href="https://leap.columbia.edu">Learning the Earth with Artificial Intelligence and Physics (LEAP)</a>
 Center and serve as the AI for Science Director on its Executive Committee.

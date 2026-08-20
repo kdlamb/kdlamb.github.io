@@ -27,9 +27,16 @@ In press, 2026<br></td>
 
  <tr>
 <td></td>
+<td><strong>Interactive Atmospheric Composition Emulation for NASA GISS Earth System Model</strong><br>
+M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
+Under review, 2026<br></td>
+</tr>
+ 
+ <tr>
+<td></td>
 <td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
-Submitted, 2026<br></td>
+Under review, 2026<br></td>
 </tr>
 
  <tr>
