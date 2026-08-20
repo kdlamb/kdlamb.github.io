@@ -6,13 +6,13 @@ image: /assets/img/NASA-DC8.jpg
 ---
 
 <p align="justify">
-Before my current research program I worked on in situ aerosol measurement, atmospheric
+I previously worked on in situ aerosol measurement, atmospheric
 instrumentation, and isotopic water vapor as a tracer of cold cloud microphysics, first during my
 Ph.D. at the University of Chicago and then in NOAA's Chemical Sciences Division. This work
-established the observational foundation my current program draws on. The field campaigns and
-laboratory studies themselves are described on the
-<a href="{{ site.github.url }}/campaigns">Research Projects</a> page, and my current work is on the
-<a href="{{ site.github.url }}/research">Research Program</a> page.
+established the observational foundation my current research draws on, and I remain interested in how 
+we can improve airborne observational analysis using data science methods. My current work is on the
+<a href="{{ site.github.url }}/research">Research Program</a> page, and current funded projects are
+on the <a href="{{ site.github.url }}/campaigns">Research Projects</a> page.
 </p>
 
 <h2>Global-scale constraints on combustion aerosols</h2>
@@ -92,5 +92,56 @@ tropical tropopause layer conditions.
 <small>[1] <a href="https://www.pnas.org/content/early/2017/05/10/1618374114">Lamb et al. PNAS (2017)</a></small><br>
 <small>[2] <a href="https://acp.copernicus.org/articles/20/1089/2020/">Clouser et al. Atmospheric Chemistry and Physics (2020)</a></small><br>
 <small>[3] <a href="https://aip.scitation.org/doi/10.1063/1.5139244">Sarkozy et al. Review of Scientific Instruments (2020)</a></small>
+</p>
+<br clear="all">
+
+<hr style="width:70%">
+
+<h2>Aircraft field campaigns</h2>
+
+<h3>NASA Korean&ndash;United States Air Quality Study</h3>
+<img src="{{ site.github.url }}/assets/img/SeoulSampling.jpg" alt="Aerosol sampling instrumentation aboard the NASA DC-8 over Seoul" class="figure" width="220" height="165" align="right" style="margin: 0 0 12px 20px;"/>
+<p align="justify">
+I participated in the field deployment of the NASA&ndash;NIER Korean&ndash;United States Air
+Quality Study, <a href="https://espo.nasa.gov/korus-aq">KORUS-AQ</a>, carried out in South Korea
+in spring 2016. This aircraft campaign was an international effort to improve understanding of
+air quality in East Asia. I was also on the science team for the NASA Atmospheric Tomography
+Mission (ATom), 2016&ndash;2018.
+</p>
+<br clear="all">
+
+<h2>Laboratory studies</h2>
+
+<h3>NOAA 2016 FIREX Firelab Study</h3>
+<img src="{{ site.github.url }}/assets/img/HorsesMissoula.JPG" alt="Landscape near the USDA Fire Sciences Laboratory in Missoula, Montana" class="figure" width="220" height="165" align="left" style="margin: 0 20px 12px 0;"/>
+<p align="justify">
+Forest fires are a major source of aerosols that affect both air quality and climate. During the
+<a href="https://csl.noaa.gov/projects/firex/firelab/">NOAA 2016 FIREX Firelab Study</a> at the
+<a href="https://www.fs.usda.gov/rmrs/research-labs/missoula-fire-sciences-laboratory">USDA Fire Sciences Laboratory</a>,
+I spent two months in Missoula, MT, collaborating with researchers from NOAA's Chemical Sciences
+Division on experiments characterizing the optical properties of black and brown carbon from
+biomass burning.
+</p>
+<br clear="all">
+
+<h3>AQUAVIT-2 Campaign</h3>
+<img src="{{ site.github.url }}/assets/img/CirrusField-color.jpg" alt="Cirrus cloud field photographed from the ground" class="figure" width="220" height="165" align="left" style="margin: 0 20px 12px 0;"/>
+<p align="justify">
+Cirrus clouds in the tropical tropopause layer (TTL) regulate the amount of water vapor entering
+the stratosphere, where it acts as an important greenhouse gas. Because the TTL is very cold and
+dry, water vapor there is challenging to measure accurately from aircraft and balloon platforms.
+I participated in the AQUAVIT-2 instrument intercomparison campaign at the
+<a href="https://www.imk-aaf.kit.edu/">AIDA Aerosol and Cloud Chamber</a> in Karlsruhe,
+Germany, in 2013, to systematically test state-of-the-art water vapor instrumentation.
+</p>
+<br clear="all">
+
+<h3>IsoCloud Campaigns</h3>
+<img src="{{ site.github.url }}/assets/img/waves.jpg" alt="Wave clouds over open terrain" class="figure" width="220" height="165" align="left" style="margin: 0 20px 12px 0;"/>
+<p align="justify">
+I participated in four research campaigns at the
+<a href="https://www.imk-aaf.kit.edu/">AIDA Aerosol and Cloud Chamber</a> in Karlsruhe,
+Germany, in 2012&ndash;2013. The IsoCloud campaigns characterized ice growth in ultra-cold cirrus
+clouds and the fundamental properties of isotopic water vapor at these temperatures.
 </p>
 <br clear="all">

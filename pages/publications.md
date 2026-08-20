@@ -7,8 +7,7 @@ image: /assets/img/waves-band.jpeg
 
 <p>
 <a href="https://scholar.google.com/citations?user=G9SNJUMAAAAJ">Google Scholar</a> &middot;
-<a href="https://github.com/kdlamb">GitHub</a> &middot;
-<a href="{{ site.github.url }}/assets/cv/CVLamb.pdf">Full CV (PDF)</a>
+<a href="https://www.researchgate.net/profile/Kara-Lamb">ResearchGate</a>
 </p>
 
 <h2>Articles, preprints, and conference papers</h2>
@@ -94,7 +93,7 @@ J. Nathaniel, C. Roesch, J. Buch, D. DeSantis, A. Rupe, K.D. Lamb, P. Gentine<br
 
  <tr>
 <td></td>
-<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://doi.org/10.1017/eds.2025.4/article/simulating-the-air-quality-impact-of-prescribed-fires-using-graph-neural-networkbased-pm25-forecasts/A93DD21899CA00208E0DE3F3B0C4DC3C">[link]</a></strong><br>
+<td><strong>Simulating the Air Quality Impacts of Prescribed Fires Using Graph Neural Network‐Based PM2.5 Forecasts <a href="https://doi.org/10.1017/eds.2025.4">[link]</a></strong><br>
 K. Liao, J. Buch, K.D. Lamb, P. Gentine<br>
 <em> Environmental Data Science</em>, 4, e11-14 (2025)<br></td>
 </tr>
@@ -273,7 +272,7 @@ Machine Learning and the Physical Sciences Workshop <br>
 
 <tr> 
 <td></td>
-<td><strong>Correlation of Auroral Dynamics and GNSS Scintillation with an Auto‐encoder <a href="https://arxiv.org/abs/1910.01570">[link]</a></strong><br>
+<td><strong>Correlation of Auroral Dynamics and GNSS Scintillation with an Auto‐encoder <a href="https://arxiv.org/abs/1910.03085">[link]</a></strong><br>
 K.D. Lamb*, G. Malhotra*, A. Vlontzos*, E. Wagstaff*, A.G. Baydin, A. Bhiwandiwalla, Y. Gal, A. Kalaitzis, A.Reina, A. Bhatt (*equal contributions) <br>
 Machine Learning and the Physical Sciences Workshop <br>
 2019 Conference on Neural Information Processing Systems <br></td>

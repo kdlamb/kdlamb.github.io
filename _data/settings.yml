@@ -12,6 +12,7 @@ menu:
 - {name: 'Projects',      url: 'campaigns'}
 - {name: 'Publications',  url: 'publications'}
 - {name: 'Teaching',      url: 'teaching'}
+- {name: 'Mentoring',     url: 'mentoring'}
 - {name: 'About',         url: 'contact'}
 - {name: 'CV',            url: 'assets/cv/CVLamb.pdf'}
 
