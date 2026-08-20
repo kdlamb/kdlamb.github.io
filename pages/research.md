@@ -7,7 +7,7 @@ image: /assets/img/CloudBand.jpeg
 
 <p align="justify">
 Clouds and aerosols remain some of the greatest sources of uncertainty for future climate projections, 
-as these processes happen at scales smaller than Earth System Model grids (∼100 km), but involve complex, 
+as these processes happen at scales smaller than Earth system model grids (∼100 km), but involve complex, 
 non-linear, and multi-scale behavior that is challenging to parameterize. My research develops scientific AI methods that combine
 physical constraints, observations, and high-resolution simulations to discover governing
 relationships and translate them into Earth system model parameterizations. 
@@ -16,9 +16,9 @@ relationships and translate them into Earth system model parameterizations.
 <h2 id="agentic-ai-for-earth-system-model-development">Agentic AI for Earth system model development</h2>
 
 <p align="justify">
-Integrating new physical knowledge into Earth System Models has historically been a slow process; agentic AI
+Integrating new physical knowledge into Earth system models has historically been a slow process; agentic AI
 offers the potential to rapidly accelerate model development, while simultaneously making it more systematic. 
-I am exploring how multi-agent systems can help design, translate, test, and optimize Earth system model
+My research investigates how multi-agent systems can design, translate, test, and optimize Earth system model
 parameterizations. This work combines automated scientific reasoning, differentiable modeling,
 benchmark development, and rigorous online evaluation to make model development more systematic
 and more reproducible. 
@@ -33,9 +33,9 @@ A recent talk I gave on this topic: <a href="https://www.youtube.com/watch?v=uo6
 <img src="{{ site.github.url }}/assets/img/cloudfields.jpg" alt="Field of shallow cumulus clouds seen from above" class="figure" width="220" height="165" align="right" style="margin: 0 0 12px 20px;"/>
 <p align="justify">
 Cloud microphysics, the small-scale interactions between liquid droplets and ice crystals, plays a 
-significant role in the climate through its effects on radiation, cloud lifetimes, and precipitation, 
+central role in the climate through its effects on radiation, cloud lifetimes, and precipitation, 
 and is one of the most significant sources of model uncertainty. Current microphysical schemes are 
-limited by physical process uncertainty and by the difficulty of developing simplified (bulk) models used in Earth System Models.
+limited by physical process uncertainty and by the difficulty of developing simplified (bulk) models used in Earth system models.
 Machine learning can emulate expensive computational models and can build parameterizations directly from observations and higher-resolution models
 using reduced-order approaches, which yield compact representations that remain physically
 interpretable.
@@ -47,7 +47,7 @@ interpretable.
 <br clear="all">
 
 
-<h3>Physics-informed machine learning ice microphysical processes from observations</h3>
+<h3>Learning Ice Microphysics from Observations with Physics-Informed Machine Learning</h3>
 <img src="{{ site.github.url }}/assets/img/Cirrus.jpg" alt="Cirrus clouds at high altitude" class="figure" width="220" height="165" align="right" style="margin: 0 0 12px 20px;"/>
 <p align="justify">
 Depositional ice growth is an important microphysical process controlling cloud formation in
@@ -55,8 +55,8 @@ mixed-phase and ice clouds. Ice crystal habits and growth rates depend sensitive
 pressure, and supersaturation, but the surface effects controlling vapor deposition are complex
 and difficult to characterize experimentally. This lack of clear physical understanding makes it
 hard to predict ice crystal habits and to parameterize depositional growth in weather and climate
-models. I have been exploring how physics-informed machine learning and symbolic regression can recover
-interpretable growth laws directly from laboratory experiments, and how generative AI can be used to 
+models. We use physics-informed machine learning and symbolic regression to recover
+interpretable growth laws directly from laboratory experiments, and generative AI to
 connect in situ ice crystal images observed during airborne field campaigns to their past atmospheric history.
 </p>
 <p align="justify">

@@ -7,7 +7,7 @@ image: /assets/img/SunsetBand.jpeg
 
 <p align="justify">
 I supervise postdoctoral researchers, graduate students, and undergraduate researchers working at
-the intersection of atmospheric physics and machine learning, including through <a href="https://leap.columbia.edu/education/momentum-fellowship/">LEAP Momentum Fellows and REU program</a>. Prospective postdocs and students interested in
+the intersection of atmospheric physics and machine learning, including through the <a href="https://leap.columbia.edu/education/momentum-fellowship/">LEAP Momentum Fellows and REU programs</a>. Prospective postdocs and students interested in
 scientific machine learning for clouds and Earth system models are welcome to
 <a href="mailto:kl3231@columbia.edu">get in touch</a>.
 </p>
@@ -21,9 +21,9 @@ scientific machine learning for clouds and Earth system models are welcome to
 <div class="card">
 <h3>Postdoctoral Research Position: AI, Cloud Microphysics, and Cloud Seeding</h3>
 <p align="justify">
-We are seeking a postdoctoral researcher to develop AI-enabled approaches for modeling and optimizing
-<a href="{{ site.github.url }}/campaigns#cloud-seeding">cloud seeding</a> as a method to reduce the risk of 
-wildfires in the Western United States. The researcher will conduct aerosol-perturbation experiments in
+We are seeking a postdoctoral researcher to develop AI-enabled approaches for evaluating and optimizing
+<a href="{{ site.github.url }}/campaigns#cloud-seeding">cloud seeding</a>, including whether it could alter
+precipitation and conditions associated with wildfire risk in the Western United States. The researcher will conduct aerosol-perturbation experiments in
 three-dimensional large-eddy simulations and develop machine-learning approaches&mdash;including
 generative optimization, reinforcement learning, and reduced-order modeling&mdash;to identify
 effective seeding strategies.

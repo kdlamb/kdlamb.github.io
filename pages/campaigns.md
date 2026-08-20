@@ -18,7 +18,9 @@ listed separately.
 
 <div class="card">
 <h3 id="cm4"><a href="https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding">Cloud Microphysics Multi-Scale Modeling Moonshot (CM4)</a></h3>
-<p><strong>Question:</strong> Can we develop consistent multi-scale representations for turbulence and cloud microphysical processes in Earth System Models using AI and DOE ARM observations?</p>
+<p><strong>Question:</strong> Can we develop consistent multi-scale representations for turbulence and cloud microphysical processes in Earth system models using AI and DOE ARM observations?</p>
+<p>CM4 applies agentic AI and differentiable modeling to a specific target: multiscale
+cloud microphysics and the parameterizations that represent it.</p>
 <p><strong>Methods:</strong> Agentic AI, differentiable single-column and Earth system modeling,
 automated parameterization development, benchmark design, online evaluation.</p>
 <p><strong>Collaborators:</strong> Columbia, PNNL, NCAR, UW&ndash;Milwaukee<br>
@@ -44,7 +46,7 @@ neural ordinary differential equations, symbolic regression, conditional diffusi
 <div class="card">
 <h3>Scientific Machine Learning and Ice Microphysics through LEAP</h3>
 <p><strong>Question:</strong> How can scientific machine learning turn observations and
-high-resolution simulations into stable, interpretable cloud parameterizations in Earth System Models?</p>
+high-resolution simulations into stable, interpretable cloud parameterizations in Earth system models?</p>
 <p><strong>Methods:</strong> Reduced-order modeling of particle-based microphysics simulation, self-supervised learning on cloud particle
 imagery, perturbed parameter ensembles.</p>
 <p><strong>Funding:</strong> NSF <a href="https://leap.columbia.edu">LEAP Center</a> internal research awards</p>
@@ -56,14 +58,18 @@ imagery, perturbed parameter ensembles.</p>
 <div class="card">
 <h3>Systematizing Earth System Model Development with Agentic AI</h3>
 <p><strong>Question:</strong> Can we more systematically develop, integrate, and tune parameterizations in Earth system models?</p>
+<p>This work builds the general, reusable agentic-AI, differentiable-programming, and
+TPU-enabled tooling that model development needs, independent of any single process or
+scheme.</p>
 <p><strong>Methods:</strong> Differentiable modeling, agentic AI, large-scale training on TPUs, benchmarking.</p>
 <p><strong>Funding:</strong> Google Awards for Machine Learning and Education with TPUs</p>
 </div>
 
 <div class="card">
-<h3 id="cloud-seeding">Optimizing the Where's and How's of Cloud Seeding with AI</h3>
-<p><strong>Question:</strong> Does operational cloud seeding measurably change precipitation,
-and can seeding strategies be optimized? Can cloud seeding reduce the risk of wildfires in the Western United States?</p>
+<h3 id="cloud-seeding">Evaluating and Optimizing Cloud Seeding with AI</h3>
+<p><strong>Question:</strong> Does operational cloud seeding measurably affect precipitation,
+under what conditions is it effective, and could optimized strategies alter conditions
+associated with drought or wildfire risk?</p>
 <p><strong>Methods:</strong> Vision language model information extraction, causal inference,
 large eddy simulations, reinforcement learning, denoising diffusion models.</p>
 <p><strong>Collaborators:</strong> Columbia University<br>

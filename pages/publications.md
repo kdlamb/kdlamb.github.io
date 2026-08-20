@@ -20,7 +20,7 @@ image: /assets/img/waves-band.jpeg
  
 <tr>
 <td><strong>2026<BR><BR><BR><BR><BR></strong></td>
-<td><strong>Discovering How Ice Crystals Grow Using Neural ODE's and Symbolic Regression <a href="https://arxiv.org/abs/2510.17935">[preprint]</a></strong><br>
+<td><strong>Discovering How Ice Crystals Grow Using Neural ODEs and Symbolic Regression <a href="https://arxiv.org/abs/2510.17935">[preprint]</a></strong><br>
 K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O. Möhler, H. Saathoff<br>
 In press, 2026<br></td>
 </tr>
