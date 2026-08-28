@@ -81,7 +81,7 @@ a comprehensive structured dataset of reported U.S. cloud seeding activities, 20
 
 <ul>
 <li><a href="https://www.bnl.gov/envsci/cloud-chamber/">An Automated, Multimodal-AI-Enabled Cloud
-Chamber for Constraining Cloud Microphysical Processes</a></li>
+Chamber for Constraining Cloud Microphysical Processes</a> (DOE Genesis)</li>
 <li>NSF Science and Technology Center: <a href="https://leap.columbia.edu">Learning the Earth with
 Artificial Intelligence and Physics</a></li>
 <li>NASA Digital Twins for Climate Science (with <a href="https://www.nasa.gov/goddard-institute-for-space-studies/">NASA GISS</a>)</li>
