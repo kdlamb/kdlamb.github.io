@@ -64,7 +64,7 @@ connect in situ ice crystal images observed during airborne field campaigns to t
 <small>[2] <a href="https://acp.copernicus.org/articles/23/6043/2023/">Lamb et al. Atmospheric Chemistry and Physics (2023)</a></small><br>
 <small>[3] <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000905">Ko, Harrington, Sulia, Przybylo, van Lier Walqui, Lamb. JGR: Machine Learning and Computation (2025)</a></small><br>
 <small>[4] <a href="https://arxiv.org/abs/2509.07688">Ko, Govindarajan, Lindsten, Sulia, Przybylo, van Lier Walqui, Lamb. NeurIPS Tackling Climate Change with ML (2025)</a></small><br>
-<small>[5] <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">Nicolaou, Frields, Stephens, Watson-Parris, Cai, Sulia, Przybylo, Ko, Lamb. Under review (2026)</a></small>
+<small>[5] <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">Nicolaou, Frields, Stephens, Watson-Parris, Cai, Sulia, Przybylo, Ko, Lamb. In press (2026)</a></small>
 </p>
 <br clear="all">
 

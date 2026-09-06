@@ -36,7 +36,7 @@ Under review, 2026<br></td>
 <td></td>
 <td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
-Under review, 2026<br></td>
+In press, 2026<br></td>
 </tr>
 
  <tr>
