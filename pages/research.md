@@ -101,12 +101,3 @@ historical meteorological data, to determine when, where, and under what conditi
 <small>[3] <a href="https://www.nature.com/articles/s42005-025-02426-1">Nathaniel, Roesch, Buch, DeSantis, Rupe, Lamb, Gentine. Communications Physics (2025)</a></small>
 </p>
 <br clear="all">
-
-<hr style="width:70%">
-
-<p align="justify">
-Before my current research on scientific ML, I worked on in situ aerosol measurement, atmospheric instrumentation,
-and isotopic water vapor as a tracer of cold cloud microphysics. That work established the
-observational foundation I draw on now and is described here:
-<a href="{{ site.github.url }}/earlier-research">Earlier research and field campaigns</a>.
-</p>

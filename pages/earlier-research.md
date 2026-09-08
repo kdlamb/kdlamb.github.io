@@ -3,6 +3,7 @@ layout: page
 title: Earlier Research and Field Campaigns
 permalink: /earlier-research
 image: /assets/img/NASA-DC8.jpg
+sitemap: false
 ---
 
 <p align="justify">
