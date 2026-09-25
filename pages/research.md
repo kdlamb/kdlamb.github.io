@@ -60,7 +60,7 @@ interpretable growth laws directly from laboratory experiments, and generative A
 connect in situ ice crystal images observed during airborne field campaigns to their past atmospheric history.
 </p>
 <p align="justify">
-<small>[1] <a href="https://arxiv.org/abs/2510.17935">Lamb, Harrington, Moyle, Pokrifka, Clouser, Ebert, M&ouml;hler, Saathoff. In press (2026)</a></small><br>
+<small>[1] <a href="https://www.science.org/doi/10.1126/sciadv.aee6174">Lamb, Harrington, Moyle, Pokrifka, Clouser, Ebert, M&ouml;hler, Saathoff. Science Advances (2026)</a></small><br>
 <small>[2] <a href="https://acp.copernicus.org/articles/23/6043/2023/">Lamb et al. Atmospheric Chemistry and Physics (2023)</a></small><br>
 <small>[3] <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000905">Ko, Harrington, Sulia, Przybylo, van Lier Walqui, Lamb. JGR: Machine Learning and Computation (2025)</a></small><br>
 <small>[4] <a href="https://arxiv.org/abs/2509.07688">Ko, Govindarajan, Lindsten, Sulia, Przybylo, van Lier Walqui, Lamb. NeurIPS Tackling Climate Change with ML (2025)</a></small><br>

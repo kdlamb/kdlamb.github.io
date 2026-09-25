@@ -38,7 +38,7 @@ neural ordinary differential equations, symbolic regression, conditional diffusi
 <p><strong>Recent papers:</strong>
 <a href="https://acp.copernicus.org/articles/23/6043/2023/">ACP (2023)</a>,
 <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000905">JGR: MLC (2025)</a>,
-<a href="https://arxiv.org/abs/2510.17935">ice growth discovery paper (in press)</a>.</p>
+<a href="https://www.science.org/doi/10.1126/sciadv.aee6174">Science Advances (2026)</a>.</p>
 </div>
 
 <div class="card">
