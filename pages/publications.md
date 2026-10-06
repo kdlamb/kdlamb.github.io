@@ -44,7 +44,7 @@ Under review, 2026<br></td>
 <td></td>
 <td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001443">[link]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
-<em>Journal of Geophysical Research: Machine Learning and Computation</em>, doi:10.1029/2026JH001443, 2026<br></td>
+<em>Journal of Geophysical Research: Machine Learning and Computation</em>, 3, no. 5, e2026JH001443, doi:10.1029/2026JH001443, 2026<br></td>
 </tr>
 
  <tr>
