@@ -27,6 +27,14 @@ K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O
 
  <tr>
 <td></td>
+<td><strong>Can LLM Agents Improve Imperfect Parameterizations in Earth System Models?</strong><br>
+K.D. Lamb<br>
+Sim2Sci Workshop <br>
+2026 Conference on Neural Information Processing Systems<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Interactive Atmospheric Composition Emulation for NASA GISS Earth System Model</strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
 Under review, 2026<br></td>
@@ -34,9 +42,9 @@ Under review, 2026<br></td>
  
  <tr>
 <td></td>
-<td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15003780/v1">[preprint]</a></strong><br>
+<td><strong>Inferring Thermodynamic Histories from In Situ Ice Crystal Imagery via Conditional Diffusion Models <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001443">[link]</a></strong><br>
 G. Nicolaou, K. Frields, T. Stephens, D. Watson-Parris, Y. Cai, K. Sulia, V. Przybylo, J. Ko, K.D. Lamb<br>
-In press, 2026<br></td>
+<em>Journal of Geophysical Research: Machine Learning and Computation</em>, doi:10.1029/2026JH001443, 2026<br></td>
 </tr>
 
  <tr>
