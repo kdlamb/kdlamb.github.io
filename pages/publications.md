@@ -35,6 +35,13 @@ Sim2Sci Workshop <br>
 
  <tr>
 <td></td>
+<td><strong>Conditional Stochastic Interpolants for Cirrus Ice Particles with a Discrete Sublimation State</strong><br>
+J. Liu, K.K. Chandrakar, Z. Liu, F. Li, J. Ko, K.D. Lamb<br>
+Machine Learning and the Physical Sciences Workshop, 2026<br></td>
+</tr>
+
+ <tr>
+<td></td>
 <td><strong>Interactive Atmospheric Composition Emulation for NASA GISS Earth System Model</strong><br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
 Under review, 2026<br></td>
