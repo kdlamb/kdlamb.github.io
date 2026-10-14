@@ -9,11 +9,11 @@ image: /assets/img/SunsetBand.jpeg
 
 <p align="justify">
 I am an atmospheric physicist and scientific machine learning researcher at
-Columbia University, where I am an Associate Research Scientist in the
-<a href="https://www.eee.columbia.edu">Department of Earth and Environmental Engineering</a>.
-I lead the Scientific Machine Learning Research Thrust Group at the NSF
+Columbia University. I serve as the AI for Science Director on the Executive Committee of the NSF
 <a href="https://leap.columbia.edu">Learning the Earth with Artificial Intelligence and Physics (LEAP)</a>
-Center and serve as the AI for Science Director on its Executive Committee.
+Center, where I also lead the Scientific Machine Learning Research Thrust Group.
+I am an Associate Research Scientist in the
+<a href="https://www.eee.columbia.edu">Department of Earth and Environmental Engineering</a>.
 </p>
 
 <p align="justify">
