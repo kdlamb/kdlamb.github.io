@@ -23,6 +23,10 @@ parameterizations. This work combines automated scientific reasoning, differenti
 benchmark development, and rigorous online evaluation to make model development more systematic
 and more reproducible. 
 </p>
+<p align="justify">
+<small>[1] <a href="https://neurips.cc/virtual/2026/166426">Lamb. Can LLM Agents Improve Imperfect Parameterizations in Earth System Models? NeurIPS Sim2Sci Workshop (2026)</a></small><br>
+<small>[2] <a href="https://arxiv.org/abs/2610.11883">Gentine et al. legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents. Preprint (2026)</a></small><br>
+</p>
 
 <p align="justify">
 A recent talk I gave on this topic: <a href="https://www.youtube.com/watch?v=uo6nUV0MVbo">Agentic AI for Earth system model development</a>.
