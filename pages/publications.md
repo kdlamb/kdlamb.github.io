@@ -39,6 +39,13 @@ Sim2Sci Workshop <br>
 M. Erfani, K.D. Lamb, S.E. Bauer, K. Tsigaridis, M. van Lier-Walqui, G. Schmidt<br>
 Under review, 2026<br></td>
 </tr>
+
+ <tr>
+<td></td>
+<td><strong>legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents <a href="https://arxiv.org/abs/2610.11883">[preprint]</a></strong><br>
+P. Gentine, D. Balwada, A. Paçal, L. Hawkins, A. Adcroft, H. Fan, J. Fang, A. Lahlou, K.D. Lamb, D.M. Lawrence, J. Le Sommer, J. Mouallem, J. Nathaniel, D. Watson-Parris, V. Eyring<br>
+Submitted, 2026<br></td>
+</tr>
  
  <tr>
 <td></td>
