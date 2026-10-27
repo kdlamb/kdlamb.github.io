@@ -377,6 +377,7 @@ K.D. Lamb, S. Menon, Q. Su, R. Grobe <br>
 
 <h2>Media and Press</h2>
 <hr style="width:70%">
+Using Machine Learning to Predict Microphysical Properties of Cloud Ice Crystals. DOE Office of Science Highlight, October (2026) <a href="https://www.energy.gov/science/ber/articles/using-machine-learning-predict-microphysical-properties-cloud-ice-crystals">[link]</a> <br>
 Need To Know: Geoengineering and Cloud Seeding. State of the Planet, July (2025). <a href="https://news.climate.columbia.edu/2025/07/17/geoengineering-cloud-seeding/">[link]</a> <br>
 We’re finally solving the puzzle of how clouds will affect our climate, New Scientist, September (2024) <a href="https://www.newscientist.com/article/mg26335070-800-were-finally-solving-the-puzzle-of-how-clouds-will-affect-our-climate/">[link]</a> <br>
 How AI Could Power the Climate Breakthroughs the World Needs, CNN, November (2023) <a href="https://www.cnn.com/2023/11/26/tech/ai-climate-solutions">[link]</a> <br>
