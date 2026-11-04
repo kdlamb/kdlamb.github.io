@@ -27,7 +27,7 @@ K.D. Lamb, J.Y. Harrington, A.M. Moyle, G.F. Pokrifka, B.W. Clouser, V. Ebert, O
 
  <tr>
 <td></td>
-<td><strong>Can LLM Agents Improve Imperfect Parameterizations in Earth System Models?</strong><br>
+<td><strong>Can LLM Agents Improve Imperfect Parameterizations in Earth System Models? <a href="https://arxiv.org/abs/2611.03543">[preprint]</a></strong><br>
 K.D. Lamb<br>
 Sim2Sci Workshop <br>
 2026 Conference on Neural Information Processing Systems<br></td>

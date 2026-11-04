@@ -24,7 +24,7 @@ benchmark development, and rigorous online evaluation to make model development 
 and more reproducible. 
 </p>
 <p align="justify">
-<small>[1] <a href="https://neurips.cc/virtual/2026/166426">Lamb. Can LLM Agents Improve Imperfect Parameterizations in Earth System Models? NeurIPS Sim2Sci Workshop (2026)</a></small><br>
+<small>[1] <a href="https://arxiv.org/abs/2611.03543">Lamb. Can LLM Agents Improve Imperfect Parameterizations in Earth System Models? NeurIPS Sim2Sci Workshop (2026)</a></small><br>
 <small>[2] <a href="https://arxiv.org/abs/2610.11883">Gentine et al. legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents. Preprint (2026)</a></small><br>
 </p>
 
